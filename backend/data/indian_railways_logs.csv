@@ -1,501 +1,501 @@
 scenario_id,train_1_id,train_1_type,train_1_weight,train_1_speed,train_2_id,train_2_type,train_2_weight,train_2_speed,location,delay_risk
-1,Bhopal Shatabdi (12422),Express,550t,110 km/h,Rajdhani Express (11887),Express,600t,120 km/h,Kanpur Central,Low
-2,Bhopal Shatabdi (12681),Express,550t,110 km/h,WAG-12 Heavy Freight (11504),Heavy Freight,6000t,75 km/h,Bhusawal Block,High
-3,BOXN Coal Rake (11362),Freight,4500t,60 km/h,Vande Bharat Express (12140),High_Speed,430t,130 km/h,Vijayawada Line,Medium
-4,Rajdhani Express (12829),Express,600t,120 km/h,WAG-12 Heavy Freight (12605),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-5,BOXN Coal Rake (12258),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12865),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
-6,Rajdhani Express (12459),Express,600t,120 km/h,BOXN Coal Rake (11590),Freight,4500t,60 km/h,Itarsi Junction,High
-7,EMU Local (12496),Commuter,300t,80 km/h,Bhopal Shatabdi (11677),Express,550t,110 km/h,Nagpur Crossing,Medium
-8,Vande Bharat Express (12786),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12549),Heavy Freight,6000t,75 km/h,Itarsi Junction,Low
-9,Vande Bharat Express (11009),High_Speed,430t,130 km/h,EMU Local (12703),Commuter,300t,80 km/h,Itarsi Junction,Medium
-10,Bhopal Shatabdi (12901),Express,550t,110 km/h,BOXN Coal Rake (12461),Freight,4500t,60 km/h,Bhusawal Block,Low
-11,BOXN Coal Rake (11358),Freight,4500t,60 km/h,Bhopal Shatabdi (11918),Express,550t,110 km/h,Vijayawada Line,High
-12,Bhopal Shatabdi (12666),Express,550t,110 km/h,EMU Local (12142),Commuter,300t,80 km/h,Bhusawal Block,Low
-13,Vande Bharat Express (11197),High_Speed,430t,130 km/h,Bhopal Shatabdi (12415),Express,550t,110 km/h,Kanpur Central,Low
-14,WAG-12 Heavy Freight (12165),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11955),Express,550t,110 km/h,Vijayawada Line,Low
-15,EMU Local (11837),Commuter,300t,80 km/h,BOXN Coal Rake (11859),Freight,4500t,60 km/h,Itarsi Junction,Low
-16,Rajdhani Express (11156),Express,600t,120 km/h,WAG-12 Heavy Freight (11559),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
-17,WAG-12 Heavy Freight (12017),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11262),Express,550t,110 km/h,Vijayawada Line,High
-18,BOXN Coal Rake (11214),Freight,4500t,60 km/h,Rajdhani Express (12031),Express,600t,120 km/h,Itarsi Junction,Low
-19,Rajdhani Express (11402),Express,600t,120 km/h,WAG-12 Heavy Freight (11384),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
-20,BOXN Coal Rake (11036),Freight,4500t,60 km/h,EMU Local (11666),Commuter,300t,80 km/h,Kanpur Central,Medium
-21,EMU Local (11578),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11561),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
-22,BOXN Coal Rake (11797),Freight,4500t,60 km/h,EMU Local (12398),Commuter,300t,80 km/h,Nagpur Crossing,Low
-23,EMU Local (11080),Commuter,300t,80 km/h,Bhopal Shatabdi (12617),Express,550t,110 km/h,Itarsi Junction,High
-24,BOXN Coal Rake (11892),Freight,4500t,60 km/h,EMU Local (11587),Commuter,300t,80 km/h,Kanpur Central,Low
-25,EMU Local (11292),Commuter,300t,80 km/h,Bhopal Shatabdi (12217),Express,550t,110 km/h,Nagpur Crossing,Medium
-26,Vande Bharat Express (11731),High_Speed,430t,130 km/h,EMU Local (11422),Commuter,300t,80 km/h,Nagpur Crossing,High
-27,Vande Bharat Express (12755),High_Speed,430t,130 km/h,BOXN Coal Rake (12123),Freight,4500t,60 km/h,Vijayawada Line,Medium
-28,EMU Local (12478),Commuter,300t,80 km/h,BOXN Coal Rake (11693),Freight,4500t,60 km/h,Bhusawal Block,Low
-29,BOXN Coal Rake (12918),Freight,4500t,60 km/h,Rajdhani Express (12586),Express,600t,120 km/h,Nagpur Crossing,Low
-30,Vande Bharat Express (12529),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12698),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
-31,Bhopal Shatabdi (12965),Express,550t,110 km/h,Rajdhani Express (11893),Express,600t,120 km/h,Itarsi Junction,Low
-32,Rajdhani Express (12564),Express,600t,120 km/h,Vande Bharat Express (11836),High_Speed,430t,130 km/h,Kanpur Central,Low
-33,BOXN Coal Rake (11905),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11871),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
-34,Bhopal Shatabdi (12718),Express,550t,110 km/h,EMU Local (12214),Commuter,300t,80 km/h,Bhusawal Block,Medium
-35,WAG-12 Heavy Freight (11961),Heavy Freight,6000t,75 km/h,EMU Local (12413),Commuter,300t,80 km/h,Kanpur Central,Medium
-36,Rajdhani Express (12893),Express,600t,120 km/h,BOXN Coal Rake (11999),Freight,4500t,60 km/h,Itarsi Junction,Low
-37,Rajdhani Express (11299),Express,600t,120 km/h,EMU Local (11725),Commuter,300t,80 km/h,Vijayawada Line,Medium
-38,Vande Bharat Express (11482),High_Speed,430t,130 km/h,Rajdhani Express (11282),Express,600t,120 km/h,Vijayawada Line,High
-39,Vande Bharat Express (11323),High_Speed,430t,130 km/h,Bhopal Shatabdi (12827),Express,550t,110 km/h,Bhusawal Block,High
-40,Vande Bharat Express (12801),High_Speed,430t,130 km/h,Bhopal Shatabdi (12177),Express,550t,110 km/h,Vijayawada Line,Low
-41,EMU Local (12863),Commuter,300t,80 km/h,Vande Bharat Express (12793),High_Speed,430t,130 km/h,Nagpur Crossing,Low
-42,Rajdhani Express (12993),Express,600t,120 km/h,Bhopal Shatabdi (11612),Express,550t,110 km/h,Itarsi Junction,Low
-43,WAG-12 Heavy Freight (12502),Heavy Freight,6000t,75 km/h,EMU Local (11639),Commuter,300t,80 km/h,Nagpur Crossing,High
-44,Rajdhani Express (12905),Express,600t,120 km/h,WAG-12 Heavy Freight (12494),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
-45,WAG-12 Heavy Freight (12127),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11391),High_Speed,430t,130 km/h,Bhusawal Block,High
-46,WAG-12 Heavy Freight (11943),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11319),Express,550t,110 km/h,Vijayawada Line,Low
-47,Bhopal Shatabdi (12292),Express,550t,110 km/h,EMU Local (11893),Commuter,300t,80 km/h,Vijayawada Line,Medium
-48,Vande Bharat Express (12839),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12932),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
-49,WAG-12 Heavy Freight (11566),Heavy Freight,6000t,75 km/h,EMU Local (12715),Commuter,300t,80 km/h,Vijayawada Line,Low
-50,EMU Local (12910),Commuter,300t,80 km/h,Vande Bharat Express (12087),High_Speed,430t,130 km/h,Kanpur Central,High
-51,Rajdhani Express (11708),Express,600t,120 km/h,WAG-12 Heavy Freight (11695),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-52,Vande Bharat Express (11455),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11646),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
-53,WAG-12 Heavy Freight (12834),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12748),High_Speed,430t,130 km/h,Itarsi Junction,Medium
-54,Rajdhani Express (12555),Express,600t,120 km/h,Vande Bharat Express (11725),High_Speed,430t,130 km/h,Kanpur Central,High
-55,EMU Local (12634),Commuter,300t,80 km/h,Rajdhani Express (11701),Express,600t,120 km/h,Bhusawal Block,Low
-56,BOXN Coal Rake (11494),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12609),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
-57,Rajdhani Express (11745),Express,600t,120 km/h,EMU Local (11879),Commuter,300t,80 km/h,Vijayawada Line,High
-58,Rajdhani Express (12942),Express,600t,120 km/h,Bhopal Shatabdi (12420),Express,550t,110 km/h,Bhusawal Block,Low
-59,BOXN Coal Rake (11396),Freight,4500t,60 km/h,Bhopal Shatabdi (11297),Express,550t,110 km/h,Nagpur Crossing,High
-60,EMU Local (11829),Commuter,300t,80 km/h,BOXN Coal Rake (11594),Freight,4500t,60 km/h,Vijayawada Line,Medium
-61,Rajdhani Express (12213),Express,600t,120 km/h,Bhopal Shatabdi (11480),Express,550t,110 km/h,Nagpur Crossing,Medium
-62,Rajdhani Express (12819),Express,600t,120 km/h,Bhopal Shatabdi (12138),Express,550t,110 km/h,Nagpur Crossing,High
-63,Bhopal Shatabdi (12170),Express,550t,110 km/h,BOXN Coal Rake (11755),Freight,4500t,60 km/h,Vijayawada Line,Medium
-64,Vande Bharat Express (11946),High_Speed,430t,130 km/h,Rajdhani Express (12503),Express,600t,120 km/h,Vijayawada Line,High
-65,Bhopal Shatabdi (11097),Express,550t,110 km/h,WAG-12 Heavy Freight (11294),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-66,Vande Bharat Express (11848),High_Speed,430t,130 km/h,Bhopal Shatabdi (12297),Express,550t,110 km/h,Itarsi Junction,High
-67,Bhopal Shatabdi (12517),Express,550t,110 km/h,Rajdhani Express (11479),Express,600t,120 km/h,Kanpur Central,Low
-68,EMU Local (11435),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11947),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
-69,Vande Bharat Express (12812),High_Speed,430t,130 km/h,Bhopal Shatabdi (11887),Express,550t,110 km/h,Kanpur Central,Medium
-70,Rajdhani Express (12327),Express,600t,120 km/h,WAG-12 Heavy Freight (11603),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
-71,Rajdhani Express (11193),Express,600t,120 km/h,Bhopal Shatabdi (11395),Express,550t,110 km/h,Nagpur Crossing,Medium
-72,Bhopal Shatabdi (11792),Express,550t,110 km/h,EMU Local (12542),Commuter,300t,80 km/h,Bhusawal Block,Low
-73,WAG-12 Heavy Freight (11635),Heavy Freight,6000t,75 km/h,Rajdhani Express (12498),Express,600t,120 km/h,Kanpur Central,Medium
-74,Bhopal Shatabdi (11858),Express,550t,110 km/h,EMU Local (11254),Commuter,300t,80 km/h,Vijayawada Line,Medium
-75,Rajdhani Express (12764),Express,600t,120 km/h,EMU Local (12954),Commuter,300t,80 km/h,Bhusawal Block,Medium
-76,Rajdhani Express (11573),Express,600t,120 km/h,BOXN Coal Rake (12785),Freight,4500t,60 km/h,Nagpur Crossing,High
-77,BOXN Coal Rake (11516),Freight,4500t,60 km/h,Vande Bharat Express (12227),High_Speed,430t,130 km/h,Kanpur Central,Low
-78,EMU Local (12756),Commuter,300t,80 km/h,Vande Bharat Express (12918),High_Speed,430t,130 km/h,Kanpur Central,Medium
-79,EMU Local (11360),Commuter,300t,80 km/h,Rajdhani Express (12378),Express,600t,120 km/h,Vijayawada Line,Medium
-80,WAG-12 Heavy Freight (11263),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12391),High_Speed,430t,130 km/h,Itarsi Junction,Medium
-81,Vande Bharat Express (12365),High_Speed,430t,130 km/h,EMU Local (12238),Commuter,300t,80 km/h,Bhusawal Block,Low
-82,Vande Bharat Express (11529),High_Speed,430t,130 km/h,BOXN Coal Rake (12443),Freight,4500t,60 km/h,Nagpur Crossing,Medium
-83,WAG-12 Heavy Freight (11257),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11569),Freight,4500t,60 km/h,Bhusawal Block,High
-84,BOXN Coal Rake (12781),Freight,4500t,60 km/h,Vande Bharat Express (11173),High_Speed,430t,130 km/h,Bhusawal Block,Medium
-85,Rajdhani Express (11923),Express,600t,120 km/h,Vande Bharat Express (11785),High_Speed,430t,130 km/h,Itarsi Junction,High
-86,Rajdhani Express (12436),Express,600t,120 km/h,Vande Bharat Express (11144),High_Speed,430t,130 km/h,Nagpur Crossing,Medium
-87,EMU Local (11213),Commuter,300t,80 km/h,BOXN Coal Rake (11295),Freight,4500t,60 km/h,Itarsi Junction,High
-88,Rajdhani Express (12670),Express,600t,120 km/h,Vande Bharat Express (12979),High_Speed,430t,130 km/h,Vijayawada Line,Low
-89,WAG-12 Heavy Freight (12513),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12073),Express,550t,110 km/h,Vijayawada Line,Low
-90,EMU Local (11884),Commuter,300t,80 km/h,BOXN Coal Rake (12567),Freight,4500t,60 km/h,Bhusawal Block,Low
-91,WAG-12 Heavy Freight (11446),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11755),High_Speed,430t,130 km/h,Nagpur Crossing,High
-92,BOXN Coal Rake (11122),Freight,4500t,60 km/h,EMU Local (12556),Commuter,300t,80 km/h,Itarsi Junction,Medium
-93,WAG-12 Heavy Freight (11222),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12519),Freight,4500t,60 km/h,Vijayawada Line,High
-94,EMU Local (11908),Commuter,300t,80 km/h,Rajdhani Express (11061),Express,600t,120 km/h,Bhusawal Block,Medium
-95,WAG-12 Heavy Freight (12000),Heavy Freight,6000t,75 km/h,EMU Local (12030),Commuter,300t,80 km/h,Kanpur Central,Medium
-96,BOXN Coal Rake (11567),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11386),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
-97,Bhopal Shatabdi (11834),Express,550t,110 km/h,Rajdhani Express (11364),Express,600t,120 km/h,Nagpur Crossing,Medium
-98,WAG-12 Heavy Freight (12813),Heavy Freight,6000t,75 km/h,EMU Local (11301),Commuter,300t,80 km/h,Nagpur Crossing,Low
-99,Rajdhani Express (11451),Express,600t,120 km/h,WAG-12 Heavy Freight (11419),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-100,BOXN Coal Rake (11265),Freight,4500t,60 km/h,EMU Local (12864),Commuter,300t,80 km/h,Nagpur Crossing,Low
-101,BOXN Coal Rake (11356),Freight,4500t,60 km/h,Vande Bharat Express (11978),High_Speed,430t,130 km/h,Itarsi Junction,Low
-102,WAG-12 Heavy Freight (12179),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11013),Freight,4500t,60 km/h,Nagpur Crossing,Medium
-103,BOXN Coal Rake (11431),Freight,4500t,60 km/h,Rajdhani Express (12188),Express,600t,120 km/h,Kanpur Central,High
-104,Vande Bharat Express (12654),High_Speed,430t,130 km/h,Rajdhani Express (12588),Express,600t,120 km/h,Bhusawal Block,Medium
-105,Rajdhani Express (11343),Express,600t,120 km/h,WAG-12 Heavy Freight (11442),Heavy Freight,6000t,75 km/h,Nagpur Crossing,High
-106,Rajdhani Express (12485),Express,600t,120 km/h,Vande Bharat Express (12609),High_Speed,430t,130 km/h,Vijayawada Line,High
-107,WAG-12 Heavy Freight (12290),Heavy Freight,6000t,75 km/h,EMU Local (12197),Commuter,300t,80 km/h,Nagpur Crossing,Low
-108,Bhopal Shatabdi (12921),Express,550t,110 km/h,WAG-12 Heavy Freight (12403),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-109,Bhopal Shatabdi (11482),Express,550t,110 km/h,Rajdhani Express (12795),Express,600t,120 km/h,Itarsi Junction,High
-110,Bhopal Shatabdi (11823),Express,550t,110 km/h,Vande Bharat Express (11414),High_Speed,430t,130 km/h,Bhusawal Block,Low
-111,Bhopal Shatabdi (11449),Express,550t,110 km/h,Rajdhani Express (12238),Express,600t,120 km/h,Vijayawada Line,High
-112,Rajdhani Express (11452),Express,600t,120 km/h,BOXN Coal Rake (11621),Freight,4500t,60 km/h,Kanpur Central,Medium
-113,Vande Bharat Express (12012),High_Speed,430t,130 km/h,Bhopal Shatabdi (11035),Express,550t,110 km/h,Vijayawada Line,Low
-114,Bhopal Shatabdi (12165),Express,550t,110 km/h,EMU Local (12583),Commuter,300t,80 km/h,Kanpur Central,High
-115,WAG-12 Heavy Freight (12962),Heavy Freight,6000t,75 km/h,EMU Local (11208),Commuter,300t,80 km/h,Kanpur Central,Low
-116,WAG-12 Heavy Freight (11410),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12988),High_Speed,430t,130 km/h,Nagpur Crossing,High
-117,WAG-12 Heavy Freight (11548),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11623),Express,550t,110 km/h,Vijayawada Line,Medium
-118,Vande Bharat Express (12254),High_Speed,430t,130 km/h,EMU Local (12981),Commuter,300t,80 km/h,Bhusawal Block,Low
-119,Vande Bharat Express (12488),High_Speed,430t,130 km/h,Rajdhani Express (12792),Express,600t,120 km/h,Vijayawada Line,Medium
-120,Rajdhani Express (12121),Express,600t,120 km/h,EMU Local (11595),Commuter,300t,80 km/h,Vijayawada Line,Low
-121,BOXN Coal Rake (11159),Freight,4500t,60 km/h,EMU Local (12486),Commuter,300t,80 km/h,Vijayawada Line,Medium
-122,Vande Bharat Express (12792),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12604),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-123,EMU Local (12840),Commuter,300t,80 km/h,BOXN Coal Rake (11469),Freight,4500t,60 km/h,Itarsi Junction,Low
-124,EMU Local (12849),Commuter,300t,80 km/h,Rajdhani Express (12595),Express,600t,120 km/h,Itarsi Junction,Low
-125,Bhopal Shatabdi (12221),Express,550t,110 km/h,Vande Bharat Express (11033),High_Speed,430t,130 km/h,Bhusawal Block,Medium
-126,Bhopal Shatabdi (11242),Express,550t,110 km/h,Rajdhani Express (11412),Express,600t,120 km/h,Nagpur Crossing,High
-127,Rajdhani Express (12880),Express,600t,120 km/h,EMU Local (11154),Commuter,300t,80 km/h,Bhusawal Block,Medium
-128,WAG-12 Heavy Freight (11384),Heavy Freight,6000t,75 km/h,Rajdhani Express (12727),Express,600t,120 km/h,Vijayawada Line,High
-129,EMU Local (11444),Commuter,300t,80 km/h,Bhopal Shatabdi (11680),Express,550t,110 km/h,Vijayawada Line,Medium
-130,WAG-12 Heavy Freight (12673),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11989),Freight,4500t,60 km/h,Vijayawada Line,High
-131,EMU Local (12491),Commuter,300t,80 km/h,BOXN Coal Rake (12941),Freight,4500t,60 km/h,Vijayawada Line,Low
-132,BOXN Coal Rake (12913),Freight,4500t,60 km/h,Bhopal Shatabdi (12680),Express,550t,110 km/h,Bhusawal Block,Medium
-133,EMU Local (11403),Commuter,300t,80 km/h,Vande Bharat Express (12087),High_Speed,430t,130 km/h,Vijayawada Line,Low
-134,BOXN Coal Rake (11059),Freight,4500t,60 km/h,Vande Bharat Express (11322),High_Speed,430t,130 km/h,Nagpur Crossing,High
-135,BOXN Coal Rake (12670),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12941),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-136,EMU Local (11591),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12589),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-137,Vande Bharat Express (11107),High_Speed,430t,130 km/h,BOXN Coal Rake (12667),Freight,4500t,60 km/h,Bhusawal Block,Low
-138,Vande Bharat Express (11421),High_Speed,430t,130 km/h,Rajdhani Express (12621),Express,600t,120 km/h,Bhusawal Block,High
-139,WAG-12 Heavy Freight (11015),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11148),Express,550t,110 km/h,Itarsi Junction,Low
-140,EMU Local (12724),Commuter,300t,80 km/h,BOXN Coal Rake (12829),Freight,4500t,60 km/h,Nagpur Crossing,High
-141,BOXN Coal Rake (12589),Freight,4500t,60 km/h,Rajdhani Express (12526),Express,600t,120 km/h,Bhusawal Block,Low
-142,WAG-12 Heavy Freight (12451),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11186),Express,550t,110 km/h,Itarsi Junction,Low
-143,Vande Bharat Express (12108),High_Speed,430t,130 km/h,Rajdhani Express (12349),Express,600t,120 km/h,Bhusawal Block,Low
-144,BOXN Coal Rake (12604),Freight,4500t,60 km/h,Vande Bharat Express (11865),High_Speed,430t,130 km/h,Vijayawada Line,High
-145,Bhopal Shatabdi (11003),Express,550t,110 km/h,Vande Bharat Express (11633),High_Speed,430t,130 km/h,Itarsi Junction,High
-146,EMU Local (11588),Commuter,300t,80 km/h,Bhopal Shatabdi (11334),Express,550t,110 km/h,Bhusawal Block,Low
-147,BOXN Coal Rake (11255),Freight,4500t,60 km/h,Rajdhani Express (11961),Express,600t,120 km/h,Vijayawada Line,High
-148,Vande Bharat Express (11777),High_Speed,430t,130 km/h,Rajdhani Express (12904),Express,600t,120 km/h,Kanpur Central,Low
-149,BOXN Coal Rake (11242),Freight,4500t,60 km/h,Rajdhani Express (11822),Express,600t,120 km/h,Vijayawada Line,High
-150,BOXN Coal Rake (11937),Freight,4500t,60 km/h,Rajdhani Express (12859),Express,600t,120 km/h,Kanpur Central,Low
-151,WAG-12 Heavy Freight (11355),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11650),Freight,4500t,60 km/h,Vijayawada Line,High
-152,BOXN Coal Rake (11256),Freight,4500t,60 km/h,Rajdhani Express (12111),Express,600t,120 km/h,Vijayawada Line,High
-153,EMU Local (12468),Commuter,300t,80 km/h,BOXN Coal Rake (11448),Freight,4500t,60 km/h,Itarsi Junction,High
-154,BOXN Coal Rake (12431),Freight,4500t,60 km/h,Rajdhani Express (12944),Express,600t,120 km/h,Itarsi Junction,Medium
-155,Bhopal Shatabdi (12456),Express,550t,110 km/h,Vande Bharat Express (11602),High_Speed,430t,130 km/h,Kanpur Central,Medium
-156,Bhopal Shatabdi (11562),Express,550t,110 km/h,BOXN Coal Rake (11692),Freight,4500t,60 km/h,Itarsi Junction,Low
-157,Rajdhani Express (12697),Express,600t,120 km/h,Vande Bharat Express (12907),High_Speed,430t,130 km/h,Nagpur Crossing,High
-158,BOXN Coal Rake (11433),Freight,4500t,60 km/h,Rajdhani Express (11594),Express,600t,120 km/h,Vijayawada Line,Low
-159,Bhopal Shatabdi (12356),Express,550t,110 km/h,Vande Bharat Express (11691),High_Speed,430t,130 km/h,Itarsi Junction,High
-160,Rajdhani Express (12131),Express,600t,120 km/h,EMU Local (12937),Commuter,300t,80 km/h,Nagpur Crossing,High
-161,Bhopal Shatabdi (11763),Express,550t,110 km/h,Vande Bharat Express (12817),High_Speed,430t,130 km/h,Bhusawal Block,High
-162,Rajdhani Express (11829),Express,600t,120 km/h,EMU Local (12411),Commuter,300t,80 km/h,Kanpur Central,Medium
-163,Bhopal Shatabdi (12521),Express,550t,110 km/h,Rajdhani Express (11831),Express,600t,120 km/h,Bhusawal Block,Medium
-164,Vande Bharat Express (12051),High_Speed,430t,130 km/h,EMU Local (11574),Commuter,300t,80 km/h,Nagpur Crossing,Medium
-165,BOXN Coal Rake (12759),Freight,4500t,60 km/h,Vande Bharat Express (12841),High_Speed,430t,130 km/h,Bhusawal Block,Medium
-166,Vande Bharat Express (12505),High_Speed,430t,130 km/h,BOXN Coal Rake (11106),Freight,4500t,60 km/h,Bhusawal Block,High
-167,EMU Local (12008),Commuter,300t,80 km/h,Bhopal Shatabdi (11911),Express,550t,110 km/h,Bhusawal Block,Medium
-168,Bhopal Shatabdi (11621),Express,550t,110 km/h,Rajdhani Express (11515),Express,600t,120 km/h,Itarsi Junction,Medium
-169,BOXN Coal Rake (11026),Freight,4500t,60 km/h,Rajdhani Express (11471),Express,600t,120 km/h,Vijayawada Line,High
-170,Bhopal Shatabdi (12899),Express,550t,110 km/h,BOXN Coal Rake (11840),Freight,4500t,60 km/h,Vijayawada Line,High
-171,Vande Bharat Express (11884),High_Speed,430t,130 km/h,Rajdhani Express (12342),Express,600t,120 km/h,Itarsi Junction,Medium
-172,BOXN Coal Rake (11729),Freight,4500t,60 km/h,Bhopal Shatabdi (11725),Express,550t,110 km/h,Itarsi Junction,Medium
-173,Vande Bharat Express (11224),High_Speed,430t,130 km/h,EMU Local (11714),Commuter,300t,80 km/h,Bhusawal Block,High
-174,EMU Local (12399),Commuter,300t,80 km/h,Vande Bharat Express (12403),High_Speed,430t,130 km/h,Itarsi Junction,Low
-175,Vande Bharat Express (11633),High_Speed,430t,130 km/h,Rajdhani Express (11752),Express,600t,120 km/h,Bhusawal Block,Low
-176,Bhopal Shatabdi (11482),Express,550t,110 km/h,WAG-12 Heavy Freight (11037),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-177,Vande Bharat Express (12623),High_Speed,430t,130 km/h,BOXN Coal Rake (12371),Freight,4500t,60 km/h,Nagpur Crossing,High
-178,Vande Bharat Express (12804),High_Speed,430t,130 km/h,BOXN Coal Rake (11278),Freight,4500t,60 km/h,Kanpur Central,Medium
-179,Bhopal Shatabdi (11761),Express,550t,110 km/h,Vande Bharat Express (12122),High_Speed,430t,130 km/h,Vijayawada Line,High
-180,WAG-12 Heavy Freight (11950),Heavy Freight,6000t,75 km/h,Rajdhani Express (11984),Express,600t,120 km/h,Nagpur Crossing,High
-181,Vande Bharat Express (11063),High_Speed,430t,130 km/h,EMU Local (11140),Commuter,300t,80 km/h,Bhusawal Block,Low
-182,EMU Local (11679),Commuter,300t,80 km/h,Vande Bharat Express (12332),High_Speed,430t,130 km/h,Vijayawada Line,Low
-183,BOXN Coal Rake (12758),Freight,4500t,60 km/h,Vande Bharat Express (11010),High_Speed,430t,130 km/h,Vijayawada Line,Medium
-184,BOXN Coal Rake (12926),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12874),Heavy Freight,6000t,75 km/h,Bhusawal Block,Low
-185,EMU Local (11483),Commuter,300t,80 km/h,BOXN Coal Rake (11504),Freight,4500t,60 km/h,Nagpur Crossing,High
-186,EMU Local (11751),Commuter,300t,80 km/h,Vande Bharat Express (11925),High_Speed,430t,130 km/h,Nagpur Crossing,Medium
-187,WAG-12 Heavy Freight (12148),Heavy Freight,6000t,75 km/h,EMU Local (12449),Commuter,300t,80 km/h,Nagpur Crossing,Medium
-188,BOXN Coal Rake (11502),Freight,4500t,60 km/h,Vande Bharat Express (12669),High_Speed,430t,130 km/h,Kanpur Central,Low
-189,Rajdhani Express (12413),Express,600t,120 km/h,WAG-12 Heavy Freight (11798),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
-190,BOXN Coal Rake (11577),Freight,4500t,60 km/h,EMU Local (11739),Commuter,300t,80 km/h,Kanpur Central,Low
-191,EMU Local (11770),Commuter,300t,80 km/h,BOXN Coal Rake (11210),Freight,4500t,60 km/h,Nagpur Crossing,Low
-192,EMU Local (12009),Commuter,300t,80 km/h,Rajdhani Express (11181),Express,600t,120 km/h,Vijayawada Line,Low
-193,BOXN Coal Rake (11601),Freight,4500t,60 km/h,Bhopal Shatabdi (11146),Express,550t,110 km/h,Vijayawada Line,Low
-194,EMU Local (12776),Commuter,300t,80 km/h,Vande Bharat Express (11602),High_Speed,430t,130 km/h,Kanpur Central,Low
-195,EMU Local (12106),Commuter,300t,80 km/h,Vande Bharat Express (12810),High_Speed,430t,130 km/h,Kanpur Central,Medium
-196,Bhopal Shatabdi (11298),Express,550t,110 km/h,WAG-12 Heavy Freight (12519),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
-197,BOXN Coal Rake (11882),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12510),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
-198,BOXN Coal Rake (11509),Freight,4500t,60 km/h,Vande Bharat Express (12962),High_Speed,430t,130 km/h,Nagpur Crossing,Medium
-199,BOXN Coal Rake (12407),Freight,4500t,60 km/h,Rajdhani Express (12189),Express,600t,120 km/h,Bhusawal Block,Medium
-200,BOXN Coal Rake (11306),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11635),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
-201,BOXN Coal Rake (11921),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11648),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
-202,Rajdhani Express (12810),Express,600t,120 km/h,EMU Local (11912),Commuter,300t,80 km/h,Vijayawada Line,Medium
-203,EMU Local (11635),Commuter,300t,80 km/h,BOXN Coal Rake (11958),Freight,4500t,60 km/h,Vijayawada Line,Low
-204,BOXN Coal Rake (11706),Freight,4500t,60 km/h,Rajdhani Express (11829),Express,600t,120 km/h,Itarsi Junction,Low
-205,WAG-12 Heavy Freight (11766),Heavy Freight,6000t,75 km/h,Rajdhani Express (11973),Express,600t,120 km/h,Kanpur Central,High
-206,BOXN Coal Rake (11935),Freight,4500t,60 km/h,Bhopal Shatabdi (11816),Express,550t,110 km/h,Vijayawada Line,High
-207,WAG-12 Heavy Freight (11124),Heavy Freight,6000t,75 km/h,Rajdhani Express (12016),Express,600t,120 km/h,Kanpur Central,Low
-208,Rajdhani Express (12758),Express,600t,120 km/h,WAG-12 Heavy Freight (12129),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
-209,WAG-12 Heavy Freight (11558),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11068),High_Speed,430t,130 km/h,Kanpur Central,High
-210,Bhopal Shatabdi (11727),Express,550t,110 km/h,BOXN Coal Rake (12986),Freight,4500t,60 km/h,Bhusawal Block,Low
-211,Bhopal Shatabdi (11540),Express,550t,110 km/h,BOXN Coal Rake (11771),Freight,4500t,60 km/h,Bhusawal Block,Low
-212,BOXN Coal Rake (12614),Freight,4500t,60 km/h,EMU Local (11292),Commuter,300t,80 km/h,Bhusawal Block,High
-213,EMU Local (12808),Commuter,300t,80 km/h,Vande Bharat Express (12117),High_Speed,430t,130 km/h,Bhusawal Block,High
-214,BOXN Coal Rake (11644),Freight,4500t,60 km/h,Vande Bharat Express (11226),High_Speed,430t,130 km/h,Itarsi Junction,Medium
-215,Vande Bharat Express (11786),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11896),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
-216,BOXN Coal Rake (12813),Freight,4500t,60 km/h,EMU Local (11864),Commuter,300t,80 km/h,Nagpur Crossing,High
-217,Vande Bharat Express (12519),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12968),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
-218,Rajdhani Express (11838),Express,600t,120 km/h,Vande Bharat Express (12352),High_Speed,430t,130 km/h,Kanpur Central,High
-219,EMU Local (12883),Commuter,300t,80 km/h,Rajdhani Express (11960),Express,600t,120 km/h,Vijayawada Line,High
-220,WAG-12 Heavy Freight (11277),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12307),High_Speed,430t,130 km/h,Nagpur Crossing,High
-221,WAG-12 Heavy Freight (11003),Heavy Freight,6000t,75 km/h,Rajdhani Express (12521),Express,600t,120 km/h,Vijayawada Line,Medium
-222,WAG-12 Heavy Freight (12322),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11000),Express,550t,110 km/h,Nagpur Crossing,Medium
-223,BOXN Coal Rake (11089),Freight,4500t,60 km/h,EMU Local (11745),Commuter,300t,80 km/h,Vijayawada Line,High
-224,Vande Bharat Express (12836),High_Speed,430t,130 km/h,Bhopal Shatabdi (12957),Express,550t,110 km/h,Kanpur Central,Medium
-225,EMU Local (12468),Commuter,300t,80 km/h,Rajdhani Express (11832),Express,600t,120 km/h,Vijayawada Line,Low
-226,Rajdhani Express (11778),Express,600t,120 km/h,Bhopal Shatabdi (12767),Express,550t,110 km/h,Nagpur Crossing,High
-227,BOXN Coal Rake (12419),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12277),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
-228,Rajdhani Express (11875),Express,600t,120 km/h,BOXN Coal Rake (11865),Freight,4500t,60 km/h,Bhusawal Block,High
-229,EMU Local (12639),Commuter,300t,80 km/h,Rajdhani Express (12608),Express,600t,120 km/h,Bhusawal Block,High
-230,BOXN Coal Rake (12851),Freight,4500t,60 km/h,EMU Local (12246),Commuter,300t,80 km/h,Bhusawal Block,High
-231,BOXN Coal Rake (12690),Freight,4500t,60 km/h,EMU Local (11976),Commuter,300t,80 km/h,Itarsi Junction,High
-232,WAG-12 Heavy Freight (11721),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11456),Freight,4500t,60 km/h,Itarsi Junction,High
-233,WAG-12 Heavy Freight (11790),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12987),Express,550t,110 km/h,Nagpur Crossing,High
-234,EMU Local (12396),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11301),Heavy Freight,6000t,75 km/h,Nagpur Crossing,High
-235,BOXN Coal Rake (12538),Freight,4500t,60 km/h,Rajdhani Express (11355),Express,600t,120 km/h,Bhusawal Block,Medium
-236,BOXN Coal Rake (12845),Freight,4500t,60 km/h,EMU Local (11107),Commuter,300t,80 km/h,Nagpur Crossing,Medium
-237,Vande Bharat Express (11816),High_Speed,430t,130 km/h,EMU Local (12391),Commuter,300t,80 km/h,Nagpur Crossing,High
-238,Bhopal Shatabdi (12034),Express,550t,110 km/h,WAG-12 Heavy Freight (11562),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-239,BOXN Coal Rake (12397),Freight,4500t,60 km/h,EMU Local (11615),Commuter,300t,80 km/h,Kanpur Central,Medium
-240,Bhopal Shatabdi (12363),Express,550t,110 km/h,BOXN Coal Rake (11426),Freight,4500t,60 km/h,Kanpur Central,High
-241,WAG-12 Heavy Freight (12986),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11331),Freight,4500t,60 km/h,Kanpur Central,High
-242,Rajdhani Express (11109),Express,600t,120 km/h,EMU Local (12490),Commuter,300t,80 km/h,Vijayawada Line,High
-243,EMU Local (12778),Commuter,300t,80 km/h,Bhopal Shatabdi (12071),Express,550t,110 km/h,Vijayawada Line,Medium
-244,Vande Bharat Express (12392),High_Speed,430t,130 km/h,Rajdhani Express (12614),Express,600t,120 km/h,Nagpur Crossing,Low
-245,WAG-12 Heavy Freight (11558),Heavy Freight,6000t,75 km/h,Rajdhani Express (11251),Express,600t,120 km/h,Itarsi Junction,High
-246,Vande Bharat Express (12969),High_Speed,430t,130 km/h,EMU Local (11316),Commuter,300t,80 km/h,Kanpur Central,Medium
-247,BOXN Coal Rake (11566),Freight,4500t,60 km/h,Bhopal Shatabdi (12535),Express,550t,110 km/h,Bhusawal Block,Low
-248,Rajdhani Express (12592),Express,600t,120 km/h,EMU Local (12685),Commuter,300t,80 km/h,Vijayawada Line,High
-249,Vande Bharat Express (12539),High_Speed,430t,130 km/h,EMU Local (11840),Commuter,300t,80 km/h,Nagpur Crossing,High
-250,Rajdhani Express (11125),Express,600t,120 km/h,Vande Bharat Express (12761),High_Speed,430t,130 km/h,Vijayawada Line,Low
-251,Rajdhani Express (12063),Express,600t,120 km/h,EMU Local (11889),Commuter,300t,80 km/h,Itarsi Junction,High
-252,BOXN Coal Rake (11664),Freight,4500t,60 km/h,Vande Bharat Express (12614),High_Speed,430t,130 km/h,Itarsi Junction,Low
-253,WAG-12 Heavy Freight (12126),Heavy Freight,6000t,75 km/h,EMU Local (11351),Commuter,300t,80 km/h,Kanpur Central,High
-254,WAG-12 Heavy Freight (12061),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11801),Express,550t,110 km/h,Itarsi Junction,Medium
-255,BOXN Coal Rake (12117),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11361),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-256,Rajdhani Express (12183),Express,600t,120 km/h,EMU Local (12992),Commuter,300t,80 km/h,Vijayawada Line,Low
-257,BOXN Coal Rake (11054),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12817),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
-258,BOXN Coal Rake (12086),Freight,4500t,60 km/h,EMU Local (12308),Commuter,300t,80 km/h,Itarsi Junction,Medium
-259,Bhopal Shatabdi (12733),Express,550t,110 km/h,Vande Bharat Express (12797),High_Speed,430t,130 km/h,Bhusawal Block,Medium
-260,Vande Bharat Express (11006),High_Speed,430t,130 km/h,EMU Local (12879),Commuter,300t,80 km/h,Kanpur Central,Low
-261,Rajdhani Express (12340),Express,600t,120 km/h,Bhopal Shatabdi (12450),Express,550t,110 km/h,Bhusawal Block,Low
-262,WAG-12 Heavy Freight (11223),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12830),High_Speed,430t,130 km/h,Vijayawada Line,Medium
-263,Vande Bharat Express (11442),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12884),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
-264,Bhopal Shatabdi (12266),Express,550t,110 km/h,Rajdhani Express (11082),Express,600t,120 km/h,Itarsi Junction,High
-265,WAG-12 Heavy Freight (11717),Heavy Freight,6000t,75 km/h,EMU Local (11401),Commuter,300t,80 km/h,Bhusawal Block,High
-266,Bhopal Shatabdi (12627),Express,550t,110 km/h,Rajdhani Express (11160),Express,600t,120 km/h,Nagpur Crossing,Medium
-267,EMU Local (12281),Commuter,300t,80 km/h,Vande Bharat Express (11953),High_Speed,430t,130 km/h,Kanpur Central,Medium
-268,Rajdhani Express (11638),Express,600t,120 km/h,WAG-12 Heavy Freight (12229),Heavy Freight,6000t,75 km/h,Kanpur Central,Low
-269,EMU Local (12472),Commuter,300t,80 km/h,Vande Bharat Express (12307),High_Speed,430t,130 km/h,Nagpur Crossing,Low
-270,Rajdhani Express (12031),Express,600t,120 km/h,EMU Local (11886),Commuter,300t,80 km/h,Vijayawada Line,Medium
-271,Bhopal Shatabdi (12477),Express,550t,110 km/h,BOXN Coal Rake (12742),Freight,4500t,60 km/h,Nagpur Crossing,High
-272,Rajdhani Express (11933),Express,600t,120 km/h,Bhopal Shatabdi (12440),Express,550t,110 km/h,Vijayawada Line,High
-273,EMU Local (11750),Commuter,300t,80 km/h,Rajdhani Express (12061),Express,600t,120 km/h,Itarsi Junction,High
-274,BOXN Coal Rake (11791),Freight,4500t,60 km/h,Vande Bharat Express (11923),High_Speed,430t,130 km/h,Vijayawada Line,Low
-275,Rajdhani Express (11890),Express,600t,120 km/h,WAG-12 Heavy Freight (11170),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-276,Vande Bharat Express (12185),High_Speed,430t,130 km/h,Rajdhani Express (12184),Express,600t,120 km/h,Kanpur Central,High
-277,WAG-12 Heavy Freight (12808),Heavy Freight,6000t,75 km/h,Rajdhani Express (12001),Express,600t,120 km/h,Bhusawal Block,Low
-278,EMU Local (11365),Commuter,300t,80 km/h,Bhopal Shatabdi (12386),Express,550t,110 km/h,Kanpur Central,Medium
-279,Bhopal Shatabdi (12742),Express,550t,110 km/h,WAG-12 Heavy Freight (12517),Heavy Freight,6000t,75 km/h,Kanpur Central,Low
-280,EMU Local (11048),Commuter,300t,80 km/h,BOXN Coal Rake (12990),Freight,4500t,60 km/h,Nagpur Crossing,Low
-281,BOXN Coal Rake (11132),Freight,4500t,60 km/h,Vande Bharat Express (12703),High_Speed,430t,130 km/h,Vijayawada Line,Low
-282,Rajdhani Express (12567),Express,600t,120 km/h,Vande Bharat Express (11131),High_Speed,430t,130 km/h,Nagpur Crossing,Medium
-283,Vande Bharat Express (12386),High_Speed,430t,130 km/h,Bhopal Shatabdi (11110),Express,550t,110 km/h,Itarsi Junction,Low
-284,WAG-12 Heavy Freight (12865),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11875),High_Speed,430t,130 km/h,Kanpur Central,Low
-285,Bhopal Shatabdi (12164),Express,550t,110 km/h,EMU Local (11403),Commuter,300t,80 km/h,Bhusawal Block,Medium
-286,Rajdhani Express (12228),Express,600t,120 km/h,WAG-12 Heavy Freight (12527),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-287,BOXN Coal Rake (11201),Freight,4500t,60 km/h,Rajdhani Express (12034),Express,600t,120 km/h,Itarsi Junction,High
-288,EMU Local (12079),Commuter,300t,80 km/h,Vande Bharat Express (12666),High_Speed,430t,130 km/h,Vijayawada Line,Low
-289,Vande Bharat Express (12008),High_Speed,430t,130 km/h,Rajdhani Express (11724),Express,600t,120 km/h,Bhusawal Block,Low
-290,Vande Bharat Express (12930),High_Speed,430t,130 km/h,Rajdhani Express (12728),Express,600t,120 km/h,Vijayawada Line,Low
-291,BOXN Coal Rake (11369),Freight,4500t,60 km/h,Bhopal Shatabdi (12960),Express,550t,110 km/h,Kanpur Central,Medium
-292,Bhopal Shatabdi (11809),Express,550t,110 km/h,WAG-12 Heavy Freight (12629),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-293,BOXN Coal Rake (11393),Freight,4500t,60 km/h,Rajdhani Express (11364),Express,600t,120 km/h,Vijayawada Line,Medium
-294,EMU Local (11556),Commuter,300t,80 km/h,Bhopal Shatabdi (11763),Express,550t,110 km/h,Nagpur Crossing,High
-295,Bhopal Shatabdi (11983),Express,550t,110 km/h,Rajdhani Express (12931),Express,600t,120 km/h,Nagpur Crossing,Medium
-296,Rajdhani Express (12525),Express,600t,120 km/h,BOXN Coal Rake (11218),Freight,4500t,60 km/h,Vijayawada Line,Low
-297,Rajdhani Express (11960),Express,600t,120 km/h,BOXN Coal Rake (11248),Freight,4500t,60 km/h,Nagpur Crossing,Low
-298,Rajdhani Express (12563),Express,600t,120 km/h,EMU Local (12237),Commuter,300t,80 km/h,Kanpur Central,Low
-299,BOXN Coal Rake (12074),Freight,4500t,60 km/h,Vande Bharat Express (12337),High_Speed,430t,130 km/h,Vijayawada Line,Medium
-300,EMU Local (12046),Commuter,300t,80 km/h,Vande Bharat Express (11609),High_Speed,430t,130 km/h,Bhusawal Block,Low
-301,Bhopal Shatabdi (11100),Express,550t,110 km/h,BOXN Coal Rake (11068),Freight,4500t,60 km/h,Vijayawada Line,High
-302,Bhopal Shatabdi (12047),Express,550t,110 km/h,BOXN Coal Rake (12362),Freight,4500t,60 km/h,Vijayawada Line,Medium
-303,EMU Local (11738),Commuter,300t,80 km/h,BOXN Coal Rake (11127),Freight,4500t,60 km/h,Bhusawal Block,Medium
-304,BOXN Coal Rake (11441),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11746),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
-305,Bhopal Shatabdi (12485),Express,550t,110 km/h,Rajdhani Express (11067),Express,600t,120 km/h,Itarsi Junction,Medium
-306,WAG-12 Heavy Freight (12165),Heavy Freight,6000t,75 km/h,Rajdhani Express (12667),Express,600t,120 km/h,Bhusawal Block,Medium
-307,Bhopal Shatabdi (11460),Express,550t,110 km/h,BOXN Coal Rake (11269),Freight,4500t,60 km/h,Nagpur Crossing,High
-308,Bhopal Shatabdi (12459),Express,550t,110 km/h,EMU Local (11272),Commuter,300t,80 km/h,Bhusawal Block,Low
-309,BOXN Coal Rake (12499),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11330),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-310,Rajdhani Express (12142),Express,600t,120 km/h,Bhopal Shatabdi (11241),Express,550t,110 km/h,Vijayawada Line,High
-311,BOXN Coal Rake (12926),Freight,4500t,60 km/h,Vande Bharat Express (11872),High_Speed,430t,130 km/h,Itarsi Junction,High
-312,Vande Bharat Express (12100),High_Speed,430t,130 km/h,EMU Local (11447),Commuter,300t,80 km/h,Itarsi Junction,Low
-313,Vande Bharat Express (11272),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12846),Heavy Freight,6000t,75 km/h,Bhusawal Block,High
-314,EMU Local (11049),Commuter,300t,80 km/h,Vande Bharat Express (11925),High_Speed,430t,130 km/h,Bhusawal Block,High
-315,EMU Local (12405),Commuter,300t,80 km/h,BOXN Coal Rake (12999),Freight,4500t,60 km/h,Kanpur Central,Medium
-316,WAG-12 Heavy Freight (11856),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12701),Express,550t,110 km/h,Kanpur Central,Low
-317,Bhopal Shatabdi (11989),Express,550t,110 km/h,Vande Bharat Express (12668),High_Speed,430t,130 km/h,Bhusawal Block,Medium
-318,Rajdhani Express (11461),Express,600t,120 km/h,Bhopal Shatabdi (11110),Express,550t,110 km/h,Nagpur Crossing,Medium
-319,BOXN Coal Rake (12503),Freight,4500t,60 km/h,Rajdhani Express (11962),Express,600t,120 km/h,Kanpur Central,Low
-320,WAG-12 Heavy Freight (12152),Heavy Freight,6000t,75 km/h,Rajdhani Express (11050),Express,600t,120 km/h,Kanpur Central,Low
-321,BOXN Coal Rake (11127),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12752),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
-322,Vande Bharat Express (12429),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12830),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-323,WAG-12 Heavy Freight (12786),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11452),High_Speed,430t,130 km/h,Itarsi Junction,High
-324,Rajdhani Express (11928),Express,600t,120 km/h,BOXN Coal Rake (11434),Freight,4500t,60 km/h,Vijayawada Line,Medium
-325,BOXN Coal Rake (12739),Freight,4500t,60 km/h,Bhopal Shatabdi (11188),Express,550t,110 km/h,Kanpur Central,Medium
-326,WAG-12 Heavy Freight (11999),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11712),Express,550t,110 km/h,Kanpur Central,High
-327,WAG-12 Heavy Freight (11476),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12191),Freight,4500t,60 km/h,Kanpur Central,Medium
-328,BOXN Coal Rake (11950),Freight,4500t,60 km/h,Bhopal Shatabdi (11242),Express,550t,110 km/h,Kanpur Central,Medium
-329,Rajdhani Express (11206),Express,600t,120 km/h,Vande Bharat Express (11286),High_Speed,430t,130 km/h,Nagpur Crossing,Medium
-330,Vande Bharat Express (11629),High_Speed,430t,130 km/h,Rajdhani Express (12911),Express,600t,120 km/h,Itarsi Junction,Medium
-331,Bhopal Shatabdi (11579),Express,550t,110 km/h,WAG-12 Heavy Freight (12626),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
-332,Rajdhani Express (11375),Express,600t,120 km/h,EMU Local (11493),Commuter,300t,80 km/h,Kanpur Central,Low
-333,Rajdhani Express (12984),Express,600t,120 km/h,Vande Bharat Express (12048),High_Speed,430t,130 km/h,Kanpur Central,Low
-334,Vande Bharat Express (11028),High_Speed,430t,130 km/h,EMU Local (12835),Commuter,300t,80 km/h,Itarsi Junction,High
-335,Vande Bharat Express (12481),High_Speed,430t,130 km/h,Rajdhani Express (12308),Express,600t,120 km/h,Kanpur Central,Low
-336,Vande Bharat Express (12126),High_Speed,430t,130 km/h,BOXN Coal Rake (11407),Freight,4500t,60 km/h,Kanpur Central,Low
-337,EMU Local (11453),Commuter,300t,80 km/h,Bhopal Shatabdi (11378),Express,550t,110 km/h,Nagpur Crossing,Medium
-338,BOXN Coal Rake (11054),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12224),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
-339,BOXN Coal Rake (12718),Freight,4500t,60 km/h,EMU Local (11719),Commuter,300t,80 km/h,Kanpur Central,Low
-340,EMU Local (12296),Commuter,300t,80 km/h,BOXN Coal Rake (11234),Freight,4500t,60 km/h,Vijayawada Line,High
-341,Bhopal Shatabdi (12602),Express,550t,110 km/h,BOXN Coal Rake (12606),Freight,4500t,60 km/h,Kanpur Central,Low
-342,Vande Bharat Express (12482),High_Speed,430t,130 km/h,Bhopal Shatabdi (11722),Express,550t,110 km/h,Nagpur Crossing,High
-343,EMU Local (12395),Commuter,300t,80 km/h,Bhopal Shatabdi (11139),Express,550t,110 km/h,Vijayawada Line,Low
-344,Bhopal Shatabdi (11558),Express,550t,110 km/h,Vande Bharat Express (12677),High_Speed,430t,130 km/h,Kanpur Central,High
-345,Rajdhani Express (11075),Express,600t,120 km/h,Bhopal Shatabdi (11257),Express,550t,110 km/h,Bhusawal Block,High
-346,Rajdhani Express (12703),Express,600t,120 km/h,EMU Local (11699),Commuter,300t,80 km/h,Vijayawada Line,High
-347,EMU Local (11095),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11309),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
-348,EMU Local (12004),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11909),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
-349,BOXN Coal Rake (11100),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11467),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-350,Vande Bharat Express (11384),High_Speed,430t,130 km/h,BOXN Coal Rake (12940),Freight,4500t,60 km/h,Bhusawal Block,High
-351,Vande Bharat Express (12180),High_Speed,430t,130 km/h,BOXN Coal Rake (11767),Freight,4500t,60 km/h,Nagpur Crossing,Medium
-352,Vande Bharat Express (12594),High_Speed,430t,130 km/h,EMU Local (12485),Commuter,300t,80 km/h,Nagpur Crossing,Low
-353,BOXN Coal Rake (12447),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12936),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-354,Rajdhani Express (12894),Express,600t,120 km/h,WAG-12 Heavy Freight (11777),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
-355,WAG-12 Heavy Freight (12373),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11321),High_Speed,430t,130 km/h,Nagpur Crossing,High
-356,Bhopal Shatabdi (12238),Express,550t,110 km/h,Vande Bharat Express (11248),High_Speed,430t,130 km/h,Bhusawal Block,Medium
-357,Vande Bharat Express (11687),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11820),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
-358,EMU Local (12783),Commuter,300t,80 km/h,Rajdhani Express (12276),Express,600t,120 km/h,Vijayawada Line,Medium
-359,Vande Bharat Express (12766),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11321),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
-360,Bhopal Shatabdi (11474),Express,550t,110 km/h,Rajdhani Express (12546),Express,600t,120 km/h,Vijayawada Line,Medium
-361,BOXN Coal Rake (11708),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12959),Heavy Freight,6000t,75 km/h,Bhusawal Block,Low
-362,Bhopal Shatabdi (12449),Express,550t,110 km/h,Vande Bharat Express (11996),High_Speed,430t,130 km/h,Bhusawal Block,Medium
-363,EMU Local (12243),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11660),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
-364,Vande Bharat Express (12487),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11236),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
-365,BOXN Coal Rake (12848),Freight,4500t,60 km/h,Rajdhani Express (11662),Express,600t,120 km/h,Itarsi Junction,Low
-366,WAG-12 Heavy Freight (11671),Heavy Freight,6000t,75 km/h,EMU Local (11025),Commuter,300t,80 km/h,Nagpur Crossing,Medium
-367,EMU Local (12951),Commuter,300t,80 km/h,Rajdhani Express (12266),Express,600t,120 km/h,Nagpur Crossing,Medium
-368,WAG-12 Heavy Freight (12124),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12023),Express,550t,110 km/h,Itarsi Junction,High
-369,Bhopal Shatabdi (12927),Express,550t,110 km/h,BOXN Coal Rake (11188),Freight,4500t,60 km/h,Nagpur Crossing,Low
-370,Rajdhani Express (11818),Express,600t,120 km/h,WAG-12 Heavy Freight (11695),Heavy Freight,6000t,75 km/h,Bhusawal Block,Low
-371,Vande Bharat Express (12740),High_Speed,430t,130 km/h,EMU Local (11572),Commuter,300t,80 km/h,Vijayawada Line,Medium
-372,EMU Local (11567),Commuter,300t,80 km/h,Rajdhani Express (11471),Express,600t,120 km/h,Bhusawal Block,Medium
-373,EMU Local (11058),Commuter,300t,80 km/h,Bhopal Shatabdi (12098),Express,550t,110 km/h,Itarsi Junction,Medium
-374,Rajdhani Express (12999),Express,600t,120 km/h,Vande Bharat Express (12944),High_Speed,430t,130 km/h,Itarsi Junction,Medium
-375,Vande Bharat Express (11921),High_Speed,430t,130 km/h,Rajdhani Express (11558),Express,600t,120 km/h,Itarsi Junction,High
-376,BOXN Coal Rake (12008),Freight,4500t,60 km/h,Rajdhani Express (11113),Express,600t,120 km/h,Itarsi Junction,Low
-377,Rajdhani Express (11145),Express,600t,120 km/h,Bhopal Shatabdi (11695),Express,550t,110 km/h,Nagpur Crossing,High
-378,Bhopal Shatabdi (11765),Express,550t,110 km/h,WAG-12 Heavy Freight (12742),Heavy Freight,6000t,75 km/h,Itarsi Junction,Low
-379,BOXN Coal Rake (12052),Freight,4500t,60 km/h,Bhopal Shatabdi (12457),Express,550t,110 km/h,Bhusawal Block,Low
-380,Bhopal Shatabdi (11395),Express,550t,110 km/h,WAG-12 Heavy Freight (11978),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
-381,Vande Bharat Express (11368),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11968),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
-382,Vande Bharat Express (12642),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11591),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
-383,Rajdhani Express (11076),Express,600t,120 km/h,Bhopal Shatabdi (12654),Express,550t,110 km/h,Nagpur Crossing,Medium
-384,WAG-12 Heavy Freight (11337),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12609),Express,550t,110 km/h,Vijayawada Line,Low
-385,Rajdhani Express (11191),Express,600t,120 km/h,WAG-12 Heavy Freight (11009),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-386,Rajdhani Express (11910),Express,600t,120 km/h,Bhopal Shatabdi (11301),Express,550t,110 km/h,Itarsi Junction,High
-387,Rajdhani Express (12368),Express,600t,120 km/h,EMU Local (12706),Commuter,300t,80 km/h,Bhusawal Block,Medium
-388,Rajdhani Express (12077),Express,600t,120 km/h,EMU Local (12007),Commuter,300t,80 km/h,Itarsi Junction,Low
-389,BOXN Coal Rake (12955),Freight,4500t,60 km/h,EMU Local (11819),Commuter,300t,80 km/h,Itarsi Junction,Low
-390,Rajdhani Express (12995),Express,600t,120 km/h,BOXN Coal Rake (12877),Freight,4500t,60 km/h,Nagpur Crossing,High
-391,Bhopal Shatabdi (12714),Express,550t,110 km/h,WAG-12 Heavy Freight (12017),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
-392,WAG-12 Heavy Freight (12525),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12276),High_Speed,430t,130 km/h,Vijayawada Line,Medium
-393,Vande Bharat Express (12577),High_Speed,430t,130 km/h,EMU Local (12048),Commuter,300t,80 km/h,Bhusawal Block,High
-394,EMU Local (12975),Commuter,300t,80 km/h,Rajdhani Express (12269),Express,600t,120 km/h,Itarsi Junction,Medium
-395,BOXN Coal Rake (12462),Freight,4500t,60 km/h,Vande Bharat Express (12473),High_Speed,430t,130 km/h,Nagpur Crossing,Low
-396,WAG-12 Heavy Freight (12585),Heavy Freight,6000t,75 km/h,Rajdhani Express (11500),Express,600t,120 km/h,Kanpur Central,Low
-397,Vande Bharat Express (11599),High_Speed,430t,130 km/h,EMU Local (12760),Commuter,300t,80 km/h,Nagpur Crossing,Low
-398,Bhopal Shatabdi (12460),Express,550t,110 km/h,EMU Local (12333),Commuter,300t,80 km/h,Bhusawal Block,Low
-399,Rajdhani Express (11211),Express,600t,120 km/h,Bhopal Shatabdi (11696),Express,550t,110 km/h,Vijayawada Line,High
-400,BOXN Coal Rake (11562),Freight,4500t,60 km/h,Vande Bharat Express (12965),High_Speed,430t,130 km/h,Vijayawada Line,High
-401,WAG-12 Heavy Freight (11129),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11637),Express,550t,110 km/h,Bhusawal Block,High
-402,Rajdhani Express (11633),Express,600t,120 km/h,WAG-12 Heavy Freight (12603),Heavy Freight,6000t,75 km/h,Kanpur Central,Low
-403,EMU Local (12163),Commuter,300t,80 km/h,Rajdhani Express (12396),Express,600t,120 km/h,Nagpur Crossing,Low
-404,Bhopal Shatabdi (12403),Express,550t,110 km/h,WAG-12 Heavy Freight (12449),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
-405,WAG-12 Heavy Freight (11712),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11458),Freight,4500t,60 km/h,Kanpur Central,Medium
-406,WAG-12 Heavy Freight (11215),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12192),High_Speed,430t,130 km/h,Bhusawal Block,Low
-407,BOXN Coal Rake (12655),Freight,4500t,60 km/h,Vande Bharat Express (11310),High_Speed,430t,130 km/h,Itarsi Junction,Low
-408,WAG-12 Heavy Freight (11239),Heavy Freight,6000t,75 km/h,EMU Local (12378),Commuter,300t,80 km/h,Itarsi Junction,High
-409,WAG-12 Heavy Freight (12360),Heavy Freight,6000t,75 km/h,Rajdhani Express (11184),Express,600t,120 km/h,Vijayawada Line,High
-410,Bhopal Shatabdi (11818),Express,550t,110 km/h,WAG-12 Heavy Freight (12000),Heavy Freight,6000t,75 km/h,Itarsi Junction,Low
-411,WAG-12 Heavy Freight (11497),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11901),High_Speed,430t,130 km/h,Bhusawal Block,High
-412,WAG-12 Heavy Freight (11427),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11237),Express,550t,110 km/h,Itarsi Junction,Medium
-413,BOXN Coal Rake (12118),Freight,4500t,60 km/h,Rajdhani Express (12339),Express,600t,120 km/h,Vijayawada Line,High
-414,Rajdhani Express (11954),Express,600t,120 km/h,WAG-12 Heavy Freight (11829),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-415,EMU Local (11177),Commuter,300t,80 km/h,Bhopal Shatabdi (12764),Express,550t,110 km/h,Vijayawada Line,Low
-416,Rajdhani Express (11251),Express,600t,120 km/h,WAG-12 Heavy Freight (12092),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
-417,Rajdhani Express (11043),Express,600t,120 km/h,BOXN Coal Rake (11413),Freight,4500t,60 km/h,Nagpur Crossing,Low
-418,BOXN Coal Rake (11130),Freight,4500t,60 km/h,Rajdhani Express (12635),Express,600t,120 km/h,Bhusawal Block,High
-419,BOXN Coal Rake (12886),Freight,4500t,60 km/h,Bhopal Shatabdi (12428),Express,550t,110 km/h,Kanpur Central,Medium
-420,Bhopal Shatabdi (12275),Express,550t,110 km/h,BOXN Coal Rake (12626),Freight,4500t,60 km/h,Itarsi Junction,Low
-421,BOXN Coal Rake (11062),Freight,4500t,60 km/h,Vande Bharat Express (12047),High_Speed,430t,130 km/h,Itarsi Junction,High
-422,BOXN Coal Rake (12039),Freight,4500t,60 km/h,Rajdhani Express (12465),Express,600t,120 km/h,Bhusawal Block,Low
-423,BOXN Coal Rake (11104),Freight,4500t,60 km/h,EMU Local (12887),Commuter,300t,80 km/h,Bhusawal Block,Medium
-424,Rajdhani Express (11283),Express,600t,120 km/h,EMU Local (11128),Commuter,300t,80 km/h,Vijayawada Line,High
-425,Rajdhani Express (11875),Express,600t,120 km/h,Bhopal Shatabdi (11578),Express,550t,110 km/h,Vijayawada Line,Low
-426,EMU Local (12151),Commuter,300t,80 km/h,Rajdhani Express (11946),Express,600t,120 km/h,Bhusawal Block,Low
-427,BOXN Coal Rake (11017),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12210),Heavy Freight,6000t,75 km/h,Bhusawal Block,Low
-428,BOXN Coal Rake (11907),Freight,4500t,60 km/h,Rajdhani Express (12132),Express,600t,120 km/h,Nagpur Crossing,Low
-429,EMU Local (12369),Commuter,300t,80 km/h,Rajdhani Express (12101),Express,600t,120 km/h,Itarsi Junction,Medium
-430,Rajdhani Express (12704),Express,600t,120 km/h,WAG-12 Heavy Freight (12968),Heavy Freight,6000t,75 km/h,Itarsi Junction,Low
-431,Vande Bharat Express (11679),High_Speed,430t,130 km/h,Rajdhani Express (12221),Express,600t,120 km/h,Nagpur Crossing,Low
-432,WAG-12 Heavy Freight (12231),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11231),Express,550t,110 km/h,Vijayawada Line,Low
-433,BOXN Coal Rake (11830),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12747),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
-434,EMU Local (12893),Commuter,300t,80 km/h,Bhopal Shatabdi (11408),Express,550t,110 km/h,Vijayawada Line,High
-435,BOXN Coal Rake (11615),Freight,4500t,60 km/h,Bhopal Shatabdi (12746),Express,550t,110 km/h,Nagpur Crossing,Low
-436,BOXN Coal Rake (11106),Freight,4500t,60 km/h,Rajdhani Express (11186),Express,600t,120 km/h,Vijayawada Line,Medium
-437,EMU Local (11929),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11041),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
-438,WAG-12 Heavy Freight (12044),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11405),Freight,4500t,60 km/h,Nagpur Crossing,Medium
-439,EMU Local (12940),Commuter,300t,80 km/h,Rajdhani Express (12188),Express,600t,120 km/h,Bhusawal Block,Medium
-440,Rajdhani Express (12270),Express,600t,120 km/h,WAG-12 Heavy Freight (12366),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
-441,Bhopal Shatabdi (12467),Express,550t,110 km/h,Rajdhani Express (11327),Express,600t,120 km/h,Kanpur Central,Medium
-442,BOXN Coal Rake (11526),Freight,4500t,60 km/h,Vande Bharat Express (11740),High_Speed,430t,130 km/h,Nagpur Crossing,High
-443,Bhopal Shatabdi (11609),Express,550t,110 km/h,EMU Local (12875),Commuter,300t,80 km/h,Itarsi Junction,Low
-444,Bhopal Shatabdi (12981),Express,550t,110 km/h,WAG-12 Heavy Freight (12035),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-445,Bhopal Shatabdi (11018),Express,550t,110 km/h,WAG-12 Heavy Freight (11481),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
-446,EMU Local (11194),Commuter,300t,80 km/h,Vande Bharat Express (12236),High_Speed,430t,130 km/h,Bhusawal Block,High
-447,BOXN Coal Rake (12186),Freight,4500t,60 km/h,Bhopal Shatabdi (12116),Express,550t,110 km/h,Vijayawada Line,Medium
-448,Vande Bharat Express (12707),High_Speed,430t,130 km/h,Bhopal Shatabdi (11986),Express,550t,110 km/h,Vijayawada Line,Low
-449,WAG-12 Heavy Freight (11623),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12658),High_Speed,430t,130 km/h,Vijayawada Line,Medium
-450,Rajdhani Express (12977),Express,600t,120 km/h,Vande Bharat Express (12953),High_Speed,430t,130 km/h,Vijayawada Line,Medium
-451,Bhopal Shatabdi (11827),Express,550t,110 km/h,BOXN Coal Rake (12562),Freight,4500t,60 km/h,Itarsi Junction,Medium
-452,WAG-12 Heavy Freight (12006),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11696),Express,550t,110 km/h,Itarsi Junction,Low
-453,EMU Local (11821),Commuter,300t,80 km/h,Vande Bharat Express (12103),High_Speed,430t,130 km/h,Itarsi Junction,Medium
-454,EMU Local (11273),Commuter,300t,80 km/h,Bhopal Shatabdi (12097),Express,550t,110 km/h,Nagpur Crossing,Medium
-455,BOXN Coal Rake (11981),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12733),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
-456,BOXN Coal Rake (12005),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11396),Heavy Freight,6000t,75 km/h,Nagpur Crossing,High
-457,WAG-12 Heavy Freight (12749),Heavy Freight,6000t,75 km/h,EMU Local (11699),Commuter,300t,80 km/h,Bhusawal Block,High
-458,Rajdhani Express (11616),Express,600t,120 km/h,EMU Local (11979),Commuter,300t,80 km/h,Vijayawada Line,High
-459,BOXN Coal Rake (11990),Freight,4500t,60 km/h,Bhopal Shatabdi (12699),Express,550t,110 km/h,Kanpur Central,Low
-460,BOXN Coal Rake (12850),Freight,4500t,60 km/h,Vande Bharat Express (12595),High_Speed,430t,130 km/h,Nagpur Crossing,Medium
-461,WAG-12 Heavy Freight (11786),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12004),Freight,4500t,60 km/h,Vijayawada Line,Low
-462,WAG-12 Heavy Freight (11644),Heavy Freight,6000t,75 km/h,Rajdhani Express (11219),Express,600t,120 km/h,Bhusawal Block,High
-463,WAG-12 Heavy Freight (11315),Heavy Freight,6000t,75 km/h,EMU Local (12575),Commuter,300t,80 km/h,Itarsi Junction,Medium
-464,Bhopal Shatabdi (12450),Express,550t,110 km/h,WAG-12 Heavy Freight (12071),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
-465,Rajdhani Express (11990),Express,600t,120 km/h,Vande Bharat Express (12076),High_Speed,430t,130 km/h,Itarsi Junction,Medium
-466,Rajdhani Express (11110),Express,600t,120 km/h,WAG-12 Heavy Freight (11195),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
-467,Vande Bharat Express (12184),High_Speed,430t,130 km/h,BOXN Coal Rake (11147),Freight,4500t,60 km/h,Bhusawal Block,High
-468,Bhopal Shatabdi (12656),Express,550t,110 km/h,Vande Bharat Express (12380),High_Speed,430t,130 km/h,Itarsi Junction,Low
-469,EMU Local (12118),Commuter,300t,80 km/h,BOXN Coal Rake (11390),Freight,4500t,60 km/h,Itarsi Junction,Medium
-470,EMU Local (12297),Commuter,300t,80 km/h,Vande Bharat Express (11927),High_Speed,430t,130 km/h,Itarsi Junction,High
-471,WAG-12 Heavy Freight (12499),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11216),Express,550t,110 km/h,Bhusawal Block,Low
-472,WAG-12 Heavy Freight (12294),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12075),Express,550t,110 km/h,Itarsi Junction,Low
-473,Bhopal Shatabdi (11396),Express,550t,110 km/h,Rajdhani Express (12463),Express,600t,120 km/h,Bhusawal Block,High
-474,WAG-12 Heavy Freight (11106),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11839),Freight,4500t,60 km/h,Bhusawal Block,High
-475,Rajdhani Express (12887),Express,600t,120 km/h,WAG-12 Heavy Freight (11966),Heavy Freight,6000t,75 km/h,Bhusawal Block,Low
-476,Vande Bharat Express (12865),High_Speed,430t,130 km/h,BOXN Coal Rake (12329),Freight,4500t,60 km/h,Nagpur Crossing,Medium
-477,WAG-12 Heavy Freight (11541),Heavy Freight,6000t,75 km/h,Rajdhani Express (11868),Express,600t,120 km/h,Vijayawada Line,Medium
-478,Vande Bharat Express (12002),High_Speed,430t,130 km/h,Bhopal Shatabdi (11299),Express,550t,110 km/h,Itarsi Junction,Low
-479,BOXN Coal Rake (11411),Freight,4500t,60 km/h,Vande Bharat Express (12314),High_Speed,430t,130 km/h,Kanpur Central,Medium
-480,Vande Bharat Express (12663),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11824),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
-481,WAG-12 Heavy Freight (11804),Heavy Freight,6000t,75 km/h,EMU Local (12407),Commuter,300t,80 km/h,Vijayawada Line,Medium
-482,Vande Bharat Express (12263),High_Speed,430t,130 km/h,BOXN Coal Rake (11514),Freight,4500t,60 km/h,Bhusawal Block,Medium
-483,Vande Bharat Express (11626),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12089),Heavy Freight,6000t,75 km/h,Kanpur Central,High
-484,BOXN Coal Rake (11307),Freight,4500t,60 km/h,Rajdhani Express (11680),Express,600t,120 km/h,Bhusawal Block,Medium
-485,EMU Local (12530),Commuter,300t,80 km/h,Bhopal Shatabdi (11697),Express,550t,110 km/h,Itarsi Junction,Medium
-486,Bhopal Shatabdi (12384),Express,550t,110 km/h,Rajdhani Express (12339),Express,600t,120 km/h,Kanpur Central,Low
-487,BOXN Coal Rake (11106),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11271),Heavy Freight,6000t,75 km/h,Itarsi Junction,Low
-488,Bhopal Shatabdi (11953),Express,550t,110 km/h,EMU Local (12679),Commuter,300t,80 km/h,Nagpur Crossing,Medium
-489,BOXN Coal Rake (12046),Freight,4500t,60 km/h,Rajdhani Express (12906),Express,600t,120 km/h,Vijayawada Line,High
-490,BOXN Coal Rake (11483),Freight,4500t,60 km/h,Bhopal Shatabdi (11924),Express,550t,110 km/h,Vijayawada Line,Low
-491,WAG-12 Heavy Freight (12384),Heavy Freight,6000t,75 km/h,EMU Local (12265),Commuter,300t,80 km/h,Vijayawada Line,High
-492,BOXN Coal Rake (11453),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11078),Heavy Freight,6000t,75 km/h,Bhusawal Block,Low
-493,Rajdhani Express (11866),Express,600t,120 km/h,WAG-12 Heavy Freight (12557),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
-494,Bhopal Shatabdi (11622),Express,550t,110 km/h,Vande Bharat Express (11022),High_Speed,430t,130 km/h,Vijayawada Line,Low
-495,BOXN Coal Rake (12049),Freight,4500t,60 km/h,Rajdhani Express (12760),Express,600t,120 km/h,Kanpur Central,High
-496,BOXN Coal Rake (11353),Freight,4500t,60 km/h,Rajdhani Express (12010),Express,600t,120 km/h,Vijayawada Line,Medium
-497,Rajdhani Express (11481),Express,600t,120 km/h,BOXN Coal Rake (12923),Freight,4500t,60 km/h,Itarsi Junction,Low
-498,Rajdhani Express (11095),Express,600t,120 km/h,WAG-12 Heavy Freight (12326),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
-499,WAG-12 Heavy Freight (11178),Heavy Freight,6000t,75 km/h,Rajdhani Express (11674),Express,600t,120 km/h,Nagpur Crossing,High
-500,WAG-12 Heavy Freight (12971),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11981),High_Speed,430t,130 km/h,Bhusawal Block,Medium
+1,Vande Bharat Express (12018),High_Speed,430t,130 km/h,Bhopal Shatabdi (12792),Express,550t,110 km/h,Itarsi Junction,High
+2,Vande Bharat Express (12560),High_Speed,430t,130 km/h,Rajdhani Express (11456),Express,600t,120 km/h,Kanpur Central,Low
+3,WAG-12 Heavy Freight (11347),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11686),Freight,4500t,60 km/h,Vijayawada Line,Medium
+4,BOXN Coal Rake (11890),Freight,4500t,60 km/h,Rajdhani Express (11421),Express,600t,120 km/h,Kanpur Central,Medium
+5,BOXN Coal Rake (11297),Freight,4500t,60 km/h,Rajdhani Express (12030),Express,600t,120 km/h,Vijayawada Line,Medium
+6,Vande Bharat Express (11648),High_Speed,430t,130 km/h,Bhopal Shatabdi (12063),Express,550t,110 km/h,Itarsi Junction,High
+7,Vande Bharat Express (11587),High_Speed,430t,130 km/h,BOXN Coal Rake (11404),Freight,4500t,60 km/h,Vijayawada Line,Medium
+8,Bhopal Shatabdi (11814),Express,550t,110 km/h,EMU Local (11396),Commuter,300t,80 km/h,Itarsi Junction,High
+9,WAG-12 Heavy Freight (12633),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11093),Freight,4500t,60 km/h,Nagpur Crossing,Medium
+10,BOXN Coal Rake (11239),Freight,4500t,60 km/h,Bhopal Shatabdi (12806),Express,550t,110 km/h,Itarsi Junction,Low
+11,Bhopal Shatabdi (12049),Express,550t,110 km/h,BOXN Coal Rake (11389),Freight,4500t,60 km/h,Bhusawal Block,High
+12,Bhopal Shatabdi (11944),Express,550t,110 km/h,WAG-12 Heavy Freight (12441),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
+13,Vande Bharat Express (11353),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11717),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+14,EMU Local (11220),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11984),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
+15,Bhopal Shatabdi (12604),Express,550t,110 km/h,WAG-12 Heavy Freight (12969),Heavy Freight,6000t,75 km/h,Nagpur Crossing,High
+16,EMU Local (11150),Commuter,300t,80 km/h,Bhopal Shatabdi (11034),Express,550t,110 km/h,Vijayawada Line,Low
+17,WAG-12 Heavy Freight (12356),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12137),Express,550t,110 km/h,Kanpur Central,High
+18,Bhopal Shatabdi (12242),Express,550t,110 km/h,WAG-12 Heavy Freight (11119),Heavy Freight,6000t,75 km/h,Itarsi Junction,Low
+19,EMU Local (12855),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11328),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
+20,Rajdhani Express (11550),Express,600t,120 km/h,Bhopal Shatabdi (11275),Express,550t,110 km/h,Bhusawal Block,High
+21,Rajdhani Express (11444),Express,600t,120 km/h,Bhopal Shatabdi (12350),Express,550t,110 km/h,Itarsi Junction,Low
+22,Vande Bharat Express (12645),High_Speed,430t,130 km/h,Rajdhani Express (11787),Express,600t,120 km/h,Kanpur Central,Medium
+23,Vande Bharat Express (12720),High_Speed,430t,130 km/h,EMU Local (11888),Commuter,300t,80 km/h,Nagpur Crossing,Medium
+24,WAG-12 Heavy Freight (11428),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11081),High_Speed,430t,130 km/h,Kanpur Central,Medium
+25,BOXN Coal Rake (12229),Freight,4500t,60 km/h,Rajdhani Express (11992),Express,600t,120 km/h,Kanpur Central,Medium
+26,Vande Bharat Express (12432),High_Speed,430t,130 km/h,BOXN Coal Rake (12411),Freight,4500t,60 km/h,Kanpur Central,Medium
+27,EMU Local (12496),Commuter,300t,80 km/h,Bhopal Shatabdi (12692),Express,550t,110 km/h,Vijayawada Line,Medium
+28,Vande Bharat Express (11239),High_Speed,430t,130 km/h,Rajdhani Express (12984),Express,600t,120 km/h,Nagpur Crossing,Medium
+29,BOXN Coal Rake (12800),Freight,4500t,60 km/h,Rajdhani Express (11532),Express,600t,120 km/h,Kanpur Central,Medium
+30,Bhopal Shatabdi (11589),Express,550t,110 km/h,WAG-12 Heavy Freight (12013),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
+31,BOXN Coal Rake (12432),Freight,4500t,60 km/h,Rajdhani Express (12013),Express,600t,120 km/h,Itarsi Junction,Medium
+32,WAG-12 Heavy Freight (11546),Heavy Freight,6000t,75 km/h,EMU Local (12590),Commuter,300t,80 km/h,Nagpur Crossing,Low
+33,Vande Bharat Express (12898),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12301),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
+34,EMU Local (11136),Commuter,300t,80 km/h,Rajdhani Express (12340),Express,600t,120 km/h,Itarsi Junction,Medium
+35,Bhopal Shatabdi (11099),Express,550t,110 km/h,BOXN Coal Rake (12487),Freight,4500t,60 km/h,Itarsi Junction,Low
+36,Bhopal Shatabdi (12417),Express,550t,110 km/h,Vande Bharat Express (11556),High_Speed,430t,130 km/h,Vijayawada Line,Medium
+37,BOXN Coal Rake (11386),Freight,4500t,60 km/h,Rajdhani Express (11933),Express,600t,120 km/h,Bhusawal Block,Low
+38,BOXN Coal Rake (11600),Freight,4500t,60 km/h,EMU Local (12842),Commuter,300t,80 km/h,Kanpur Central,Medium
+39,BOXN Coal Rake (12023),Freight,4500t,60 km/h,Rajdhani Express (12258),Express,600t,120 km/h,Kanpur Central,High
+40,Vande Bharat Express (12633),High_Speed,430t,130 km/h,Bhopal Shatabdi (11730),Express,550t,110 km/h,Vijayawada Line,Low
+41,Bhopal Shatabdi (12921),Express,550t,110 km/h,EMU Local (12048),Commuter,300t,80 km/h,Kanpur Central,High
+42,EMU Local (12385),Commuter,300t,80 km/h,BOXN Coal Rake (12075),Freight,4500t,60 km/h,Kanpur Central,High
+43,WAG-12 Heavy Freight (12743),Heavy Freight,6000t,75 km/h,Rajdhani Express (11256),Express,600t,120 km/h,Itarsi Junction,Low
+44,BOXN Coal Rake (11633),Freight,4500t,60 km/h,Rajdhani Express (12800),Express,600t,120 km/h,Bhusawal Block,Medium
+45,EMU Local (11447),Commuter,300t,80 km/h,Bhopal Shatabdi (11258),Express,550t,110 km/h,Bhusawal Block,Low
+46,Vande Bharat Express (12221),High_Speed,430t,130 km/h,EMU Local (11088),Commuter,300t,80 km/h,Vijayawada Line,High
+47,BOXN Coal Rake (11224),Freight,4500t,60 km/h,Vande Bharat Express (12224),High_Speed,430t,130 km/h,Vijayawada Line,Medium
+48,Rajdhani Express (12185),Express,600t,120 km/h,BOXN Coal Rake (12231),Freight,4500t,60 km/h,Vijayawada Line,High
+49,Bhopal Shatabdi (11738),Express,550t,110 km/h,Vande Bharat Express (11606),High_Speed,430t,130 km/h,Kanpur Central,Medium
+50,Vande Bharat Express (11140),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12581),Heavy Freight,6000t,75 km/h,Kanpur Central,High
+51,WAG-12 Heavy Freight (11747),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12459),High_Speed,430t,130 km/h,Itarsi Junction,Low
+52,WAG-12 Heavy Freight (11168),Heavy Freight,6000t,75 km/h,EMU Local (11284),Commuter,300t,80 km/h,Vijayawada Line,Low
+53,BOXN Coal Rake (11669),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11578),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
+54,Vande Bharat Express (11896),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12563),Heavy Freight,6000t,75 km/h,Itarsi Junction,Low
+55,Bhopal Shatabdi (12069),Express,550t,110 km/h,BOXN Coal Rake (11107),Freight,4500t,60 km/h,Nagpur Crossing,High
+56,Rajdhani Express (11454),Express,600t,120 km/h,EMU Local (11259),Commuter,300t,80 km/h,Kanpur Central,Medium
+57,BOXN Coal Rake (11672),Freight,4500t,60 km/h,Vande Bharat Express (12416),High_Speed,430t,130 km/h,Bhusawal Block,Low
+58,Rajdhani Express (11640),Express,600t,120 km/h,EMU Local (12664),Commuter,300t,80 km/h,Itarsi Junction,High
+59,EMU Local (12084),Commuter,300t,80 km/h,Bhopal Shatabdi (12053),Express,550t,110 km/h,Bhusawal Block,Low
+60,WAG-12 Heavy Freight (11790),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11367),Freight,4500t,60 km/h,Vijayawada Line,High
+61,Vande Bharat Express (11625),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11147),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
+62,BOXN Coal Rake (12058),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12019),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
+63,EMU Local (12375),Commuter,300t,80 km/h,Vande Bharat Express (12820),High_Speed,430t,130 km/h,Bhusawal Block,Low
+64,Rajdhani Express (11968),Express,600t,120 km/h,Bhopal Shatabdi (11525),Express,550t,110 km/h,Bhusawal Block,Low
+65,Vande Bharat Express (11870),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11789),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
+66,BOXN Coal Rake (12235),Freight,4500t,60 km/h,EMU Local (11311),Commuter,300t,80 km/h,Itarsi Junction,High
+67,Bhopal Shatabdi (12455),Express,550t,110 km/h,Vande Bharat Express (11669),High_Speed,430t,130 km/h,Vijayawada Line,High
+68,BOXN Coal Rake (11227),Freight,4500t,60 km/h,Vande Bharat Express (12582),High_Speed,430t,130 km/h,Itarsi Junction,High
+69,Rajdhani Express (12789),Express,600t,120 km/h,WAG-12 Heavy Freight (11822),Heavy Freight,6000t,75 km/h,Nagpur Crossing,High
+70,Rajdhani Express (12692),Express,600t,120 km/h,EMU Local (11792),Commuter,300t,80 km/h,Itarsi Junction,Medium
+71,Bhopal Shatabdi (12979),Express,550t,110 km/h,Rajdhani Express (11253),Express,600t,120 km/h,Itarsi Junction,High
+72,Rajdhani Express (12591),Express,600t,120 km/h,EMU Local (11031),Commuter,300t,80 km/h,Bhusawal Block,Low
+73,Rajdhani Express (11016),Express,600t,120 km/h,WAG-12 Heavy Freight (11430),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
+74,EMU Local (11756),Commuter,300t,80 km/h,BOXN Coal Rake (12142),Freight,4500t,60 km/h,Kanpur Central,High
+75,Rajdhani Express (11428),Express,600t,120 km/h,Vande Bharat Express (11757),High_Speed,430t,130 km/h,Nagpur Crossing,High
+76,BOXN Coal Rake (12183),Freight,4500t,60 km/h,EMU Local (11498),Commuter,300t,80 km/h,Nagpur Crossing,High
+77,BOXN Coal Rake (11732),Freight,4500t,60 km/h,Bhopal Shatabdi (12032),Express,550t,110 km/h,Kanpur Central,High
+78,Bhopal Shatabdi (11847),Express,550t,110 km/h,BOXN Coal Rake (11804),Freight,4500t,60 km/h,Kanpur Central,Medium
+79,WAG-12 Heavy Freight (11271),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11869),Express,550t,110 km/h,Vijayawada Line,High
+80,Bhopal Shatabdi (12730),Express,550t,110 km/h,Rajdhani Express (11496),Express,600t,120 km/h,Nagpur Crossing,High
+81,Bhopal Shatabdi (12084),Express,550t,110 km/h,BOXN Coal Rake (11198),Freight,4500t,60 km/h,Itarsi Junction,High
+82,WAG-12 Heavy Freight (11935),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12396),Express,550t,110 km/h,Nagpur Crossing,Medium
+83,BOXN Coal Rake (12921),Freight,4500t,60 km/h,EMU Local (12699),Commuter,300t,80 km/h,Vijayawada Line,High
+84,Bhopal Shatabdi (11528),Express,550t,110 km/h,BOXN Coal Rake (11389),Freight,4500t,60 km/h,Kanpur Central,High
+85,Rajdhani Express (12798),Express,600t,120 km/h,BOXN Coal Rake (12671),Freight,4500t,60 km/h,Kanpur Central,High
+86,BOXN Coal Rake (11054),Freight,4500t,60 km/h,Rajdhani Express (11038),Express,600t,120 km/h,Kanpur Central,Low
+87,BOXN Coal Rake (11152),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11739),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
+88,Bhopal Shatabdi (11076),Express,550t,110 km/h,Rajdhani Express (11462),Express,600t,120 km/h,Itarsi Junction,High
+89,EMU Local (11394),Commuter,300t,80 km/h,Vande Bharat Express (12281),High_Speed,430t,130 km/h,Bhusawal Block,High
+90,Rajdhani Express (12686),Express,600t,120 km/h,Vande Bharat Express (11427),High_Speed,430t,130 km/h,Itarsi Junction,Low
+91,WAG-12 Heavy Freight (11820),Heavy Freight,6000t,75 km/h,Rajdhani Express (11160),Express,600t,120 km/h,Vijayawada Line,High
+92,BOXN Coal Rake (11353),Freight,4500t,60 km/h,EMU Local (12728),Commuter,300t,80 km/h,Vijayawada Line,Low
+93,Vande Bharat Express (11173),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12103),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
+94,EMU Local (11440),Commuter,300t,80 km/h,Bhopal Shatabdi (11613),Express,550t,110 km/h,Bhusawal Block,Medium
+95,Vande Bharat Express (12642),High_Speed,430t,130 km/h,Rajdhani Express (12261),Express,600t,120 km/h,Kanpur Central,High
+96,Bhopal Shatabdi (11989),Express,550t,110 km/h,BOXN Coal Rake (12888),Freight,4500t,60 km/h,Vijayawada Line,Medium
+97,Rajdhani Express (11234),Express,600t,120 km/h,Vande Bharat Express (11942),High_Speed,430t,130 km/h,Kanpur Central,Medium
+98,BOXN Coal Rake (11394),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11502),Heavy Freight,6000t,75 km/h,Kanpur Central,Low
+99,EMU Local (11490),Commuter,300t,80 km/h,Vande Bharat Express (12018),High_Speed,430t,130 km/h,Vijayawada Line,High
+100,BOXN Coal Rake (12407),Freight,4500t,60 km/h,Bhopal Shatabdi (11399),Express,550t,110 km/h,Kanpur Central,High
+101,WAG-12 Heavy Freight (12892),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12816),Freight,4500t,60 km/h,Kanpur Central,Medium
+102,Vande Bharat Express (12371),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12583),Heavy Freight,6000t,75 km/h,Bhusawal Block,High
+103,BOXN Coal Rake (11259),Freight,4500t,60 km/h,Vande Bharat Express (12281),High_Speed,430t,130 km/h,Vijayawada Line,Medium
+104,EMU Local (11990),Commuter,300t,80 km/h,Bhopal Shatabdi (12015),Express,550t,110 km/h,Vijayawada Line,High
+105,Bhopal Shatabdi (12217),Express,550t,110 km/h,EMU Local (12123),Commuter,300t,80 km/h,Bhusawal Block,Medium
+106,BOXN Coal Rake (11912),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12979),Heavy Freight,6000t,75 km/h,Kanpur Central,Low
+107,Bhopal Shatabdi (11548),Express,550t,110 km/h,Vande Bharat Express (12262),High_Speed,430t,130 km/h,Itarsi Junction,Low
+108,WAG-12 Heavy Freight (11234),Heavy Freight,6000t,75 km/h,Rajdhani Express (12519),Express,600t,120 km/h,Nagpur Crossing,Low
+109,EMU Local (11976),Commuter,300t,80 km/h,BOXN Coal Rake (11666),Freight,4500t,60 km/h,Bhusawal Block,Low
+110,Vande Bharat Express (11293),High_Speed,430t,130 km/h,EMU Local (11299),Commuter,300t,80 km/h,Vijayawada Line,High
+111,Vande Bharat Express (12470),High_Speed,430t,130 km/h,BOXN Coal Rake (11728),Freight,4500t,60 km/h,Kanpur Central,Low
+112,WAG-12 Heavy Freight (11475),Heavy Freight,6000t,75 km/h,Rajdhani Express (11208),Express,600t,120 km/h,Bhusawal Block,High
+113,EMU Local (11873),Commuter,300t,80 km/h,Vande Bharat Express (11617),High_Speed,430t,130 km/h,Kanpur Central,Low
+114,Vande Bharat Express (12337),High_Speed,430t,130 km/h,Rajdhani Express (12917),Express,600t,120 km/h,Itarsi Junction,Medium
+115,Bhopal Shatabdi (12117),Express,550t,110 km/h,BOXN Coal Rake (12416),Freight,4500t,60 km/h,Kanpur Central,High
+116,Vande Bharat Express (12314),High_Speed,430t,130 km/h,Rajdhani Express (12968),Express,600t,120 km/h,Kanpur Central,High
+117,BOXN Coal Rake (11207),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12622),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
+118,Vande Bharat Express (12941),High_Speed,430t,130 km/h,BOXN Coal Rake (12022),Freight,4500t,60 km/h,Kanpur Central,High
+119,Bhopal Shatabdi (11216),Express,550t,110 km/h,BOXN Coal Rake (12342),Freight,4500t,60 km/h,Vijayawada Line,Low
+120,Bhopal Shatabdi (11106),Express,550t,110 km/h,Rajdhani Express (11396),Express,600t,120 km/h,Itarsi Junction,Medium
+121,Vande Bharat Express (11841),High_Speed,430t,130 km/h,BOXN Coal Rake (11111),Freight,4500t,60 km/h,Nagpur Crossing,Low
+122,WAG-12 Heavy Freight (11949),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12907),Freight,4500t,60 km/h,Kanpur Central,High
+123,WAG-12 Heavy Freight (12477),Heavy Freight,6000t,75 km/h,EMU Local (12809),Commuter,300t,80 km/h,Bhusawal Block,Medium
+124,WAG-12 Heavy Freight (11921),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11702),Express,550t,110 km/h,Kanpur Central,Low
+125,Bhopal Shatabdi (12739),Express,550t,110 km/h,Vande Bharat Express (11631),High_Speed,430t,130 km/h,Kanpur Central,High
+126,WAG-12 Heavy Freight (11493),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11031),Freight,4500t,60 km/h,Nagpur Crossing,Medium
+127,EMU Local (11160),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11758),Heavy Freight,6000t,75 km/h,Nagpur Crossing,High
+128,EMU Local (11141),Commuter,300t,80 km/h,Vande Bharat Express (11621),High_Speed,430t,130 km/h,Itarsi Junction,Low
+129,BOXN Coal Rake (11113),Freight,4500t,60 km/h,EMU Local (11433),Commuter,300t,80 km/h,Kanpur Central,Low
+130,BOXN Coal Rake (12092),Freight,4500t,60 km/h,EMU Local (11277),Commuter,300t,80 km/h,Itarsi Junction,High
+131,Vande Bharat Express (12116),High_Speed,430t,130 km/h,EMU Local (11862),Commuter,300t,80 km/h,Kanpur Central,High
+132,Bhopal Shatabdi (12405),Express,550t,110 km/h,EMU Local (12437),Commuter,300t,80 km/h,Bhusawal Block,Low
+133,Rajdhani Express (11493),Express,600t,120 km/h,EMU Local (11491),Commuter,300t,80 km/h,Kanpur Central,Medium
+134,Bhopal Shatabdi (11253),Express,550t,110 km/h,Vande Bharat Express (11644),High_Speed,430t,130 km/h,Vijayawada Line,Low
+135,Vande Bharat Express (12324),High_Speed,430t,130 km/h,EMU Local (11562),Commuter,300t,80 km/h,Kanpur Central,High
+136,EMU Local (11595),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12865),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
+137,Rajdhani Express (12867),Express,600t,120 km/h,Vande Bharat Express (12608),High_Speed,430t,130 km/h,Nagpur Crossing,Low
+138,WAG-12 Heavy Freight (11574),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12847),High_Speed,430t,130 km/h,Vijayawada Line,Medium
+139,EMU Local (12420),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12846),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
+140,Vande Bharat Express (12321),High_Speed,430t,130 km/h,EMU Local (12323),Commuter,300t,80 km/h,Itarsi Junction,Low
+141,BOXN Coal Rake (12704),Freight,4500t,60 km/h,EMU Local (12891),Commuter,300t,80 km/h,Vijayawada Line,High
+142,Rajdhani Express (11632),Express,600t,120 km/h,Bhopal Shatabdi (12992),Express,550t,110 km/h,Kanpur Central,Medium
+143,Bhopal Shatabdi (11906),Express,550t,110 km/h,BOXN Coal Rake (11630),Freight,4500t,60 km/h,Itarsi Junction,Medium
+144,WAG-12 Heavy Freight (11128),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11880),High_Speed,430t,130 km/h,Bhusawal Block,High
+145,Bhopal Shatabdi (12877),Express,550t,110 km/h,Rajdhani Express (11679),Express,600t,120 km/h,Vijayawada Line,High
+146,Vande Bharat Express (11090),High_Speed,430t,130 km/h,EMU Local (12121),Commuter,300t,80 km/h,Itarsi Junction,Low
+147,WAG-12 Heavy Freight (11938),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12150),High_Speed,430t,130 km/h,Bhusawal Block,Medium
+148,Bhopal Shatabdi (11824),Express,550t,110 km/h,WAG-12 Heavy Freight (12825),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
+149,BOXN Coal Rake (12751),Freight,4500t,60 km/h,Rajdhani Express (11974),Express,600t,120 km/h,Itarsi Junction,High
+150,Bhopal Shatabdi (11078),Express,550t,110 km/h,Rajdhani Express (11424),Express,600t,120 km/h,Bhusawal Block,High
+151,Rajdhani Express (12888),Express,600t,120 km/h,BOXN Coal Rake (12084),Freight,4500t,60 km/h,Kanpur Central,Low
+152,Bhopal Shatabdi (11675),Express,550t,110 km/h,Rajdhani Express (11198),Express,600t,120 km/h,Kanpur Central,High
+153,Vande Bharat Express (11673),High_Speed,430t,130 km/h,Bhopal Shatabdi (11343),Express,550t,110 km/h,Bhusawal Block,Medium
+154,Rajdhani Express (12570),Express,600t,120 km/h,BOXN Coal Rake (12359),Freight,4500t,60 km/h,Itarsi Junction,High
+155,Rajdhani Express (12451),Express,600t,120 km/h,Vande Bharat Express (12844),High_Speed,430t,130 km/h,Itarsi Junction,High
+156,WAG-12 Heavy Freight (11587),Heavy Freight,6000t,75 km/h,EMU Local (11043),Commuter,300t,80 km/h,Kanpur Central,Low
+157,Vande Bharat Express (12652),High_Speed,430t,130 km/h,BOXN Coal Rake (11400),Freight,4500t,60 km/h,Vijayawada Line,Low
+158,WAG-12 Heavy Freight (11014),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11889),Express,550t,110 km/h,Kanpur Central,High
+159,EMU Local (12116),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12044),Heavy Freight,6000t,75 km/h,Nagpur Crossing,High
+160,BOXN Coal Rake (11212),Freight,4500t,60 km/h,Vande Bharat Express (11469),High_Speed,430t,130 km/h,Itarsi Junction,Medium
+161,BOXN Coal Rake (12907),Freight,4500t,60 km/h,EMU Local (11191),Commuter,300t,80 km/h,Kanpur Central,High
+162,Bhopal Shatabdi (12286),Express,550t,110 km/h,Vande Bharat Express (12253),High_Speed,430t,130 km/h,Kanpur Central,Low
+163,Bhopal Shatabdi (11611),Express,550t,110 km/h,Vande Bharat Express (11633),High_Speed,430t,130 km/h,Kanpur Central,Low
+164,Rajdhani Express (12861),Express,600t,120 km/h,EMU Local (11483),Commuter,300t,80 km/h,Vijayawada Line,Low
+165,BOXN Coal Rake (12224),Freight,4500t,60 km/h,EMU Local (11399),Commuter,300t,80 km/h,Nagpur Crossing,Medium
+166,BOXN Coal Rake (11664),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11934),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+167,Vande Bharat Express (11092),High_Speed,430t,130 km/h,Bhopal Shatabdi (12188),Express,550t,110 km/h,Vijayawada Line,Medium
+168,Vande Bharat Express (11320),High_Speed,430t,130 km/h,BOXN Coal Rake (11829),Freight,4500t,60 km/h,Kanpur Central,High
+169,Vande Bharat Express (12999),High_Speed,430t,130 km/h,EMU Local (12039),Commuter,300t,80 km/h,Vijayawada Line,Low
+170,Bhopal Shatabdi (11368),Express,550t,110 km/h,Vande Bharat Express (12929),High_Speed,430t,130 km/h,Kanpur Central,High
+171,BOXN Coal Rake (12272),Freight,4500t,60 km/h,Bhopal Shatabdi (12388),Express,550t,110 km/h,Itarsi Junction,High
+172,EMU Local (11307),Commuter,300t,80 km/h,BOXN Coal Rake (11756),Freight,4500t,60 km/h,Kanpur Central,Low
+173,EMU Local (11609),Commuter,300t,80 km/h,Rajdhani Express (11193),Express,600t,120 km/h,Vijayawada Line,High
+174,WAG-12 Heavy Freight (12990),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12050),High_Speed,430t,130 km/h,Kanpur Central,Medium
+175,WAG-12 Heavy Freight (12965),Heavy Freight,6000t,75 km/h,EMU Local (11860),Commuter,300t,80 km/h,Nagpur Crossing,Low
+176,EMU Local (11779),Commuter,300t,80 km/h,Bhopal Shatabdi (11435),Express,550t,110 km/h,Itarsi Junction,Medium
+177,Vande Bharat Express (12457),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11944),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
+178,WAG-12 Heavy Freight (12469),Heavy Freight,6000t,75 km/h,Rajdhani Express (12958),Express,600t,120 km/h,Vijayawada Line,Medium
+179,EMU Local (11325),Commuter,300t,80 km/h,BOXN Coal Rake (12429),Freight,4500t,60 km/h,Itarsi Junction,Low
+180,Vande Bharat Express (11500),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12819),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
+181,BOXN Coal Rake (12326),Freight,4500t,60 km/h,Rajdhani Express (11166),Express,600t,120 km/h,Kanpur Central,Low
+182,Bhopal Shatabdi (11471),Express,550t,110 km/h,WAG-12 Heavy Freight (12066),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
+183,Rajdhani Express (12017),Express,600t,120 km/h,EMU Local (11429),Commuter,300t,80 km/h,Vijayawada Line,Low
+184,EMU Local (12652),Commuter,300t,80 km/h,BOXN Coal Rake (12705),Freight,4500t,60 km/h,Itarsi Junction,Low
+185,Vande Bharat Express (12236),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12733),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
+186,Bhopal Shatabdi (11003),Express,550t,110 km/h,Rajdhani Express (11427),Express,600t,120 km/h,Vijayawada Line,Low
+187,EMU Local (12680),Commuter,300t,80 km/h,BOXN Coal Rake (11742),Freight,4500t,60 km/h,Nagpur Crossing,High
+188,EMU Local (12274),Commuter,300t,80 km/h,Vande Bharat Express (12850),High_Speed,430t,130 km/h,Nagpur Crossing,Low
+189,Bhopal Shatabdi (11617),Express,550t,110 km/h,EMU Local (11012),Commuter,300t,80 km/h,Vijayawada Line,Medium
+190,WAG-12 Heavy Freight (12160),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12647),High_Speed,430t,130 km/h,Itarsi Junction,High
+191,WAG-12 Heavy Freight (11186),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12404),Freight,4500t,60 km/h,Bhusawal Block,Medium
+192,EMU Local (11763),Commuter,300t,80 km/h,Rajdhani Express (11728),Express,600t,120 km/h,Kanpur Central,Medium
+193,Rajdhani Express (11901),Express,600t,120 km/h,BOXN Coal Rake (12468),Freight,4500t,60 km/h,Itarsi Junction,Medium
+194,BOXN Coal Rake (11346),Freight,4500t,60 km/h,Vande Bharat Express (11511),High_Speed,430t,130 km/h,Vijayawada Line,Low
+195,BOXN Coal Rake (11077),Freight,4500t,60 km/h,EMU Local (12884),Commuter,300t,80 km/h,Vijayawada Line,High
+196,Bhopal Shatabdi (12756),Express,550t,110 km/h,Rajdhani Express (11370),Express,600t,120 km/h,Vijayawada Line,High
+197,EMU Local (12711),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12781),Heavy Freight,6000t,75 km/h,Kanpur Central,High
+198,BOXN Coal Rake (11573),Freight,4500t,60 km/h,Bhopal Shatabdi (12775),Express,550t,110 km/h,Kanpur Central,High
+199,WAG-12 Heavy Freight (11559),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12414),Express,550t,110 km/h,Vijayawada Line,Medium
+200,BOXN Coal Rake (12329),Freight,4500t,60 km/h,Rajdhani Express (11311),Express,600t,120 km/h,Kanpur Central,Medium
+201,BOXN Coal Rake (11911),Freight,4500t,60 km/h,Vande Bharat Express (11281),High_Speed,430t,130 km/h,Vijayawada Line,Medium
+202,Vande Bharat Express (12478),High_Speed,430t,130 km/h,Bhopal Shatabdi (12708),Express,550t,110 km/h,Kanpur Central,Low
+203,EMU Local (12340),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11777),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
+204,EMU Local (12281),Commuter,300t,80 km/h,Vande Bharat Express (11054),High_Speed,430t,130 km/h,Vijayawada Line,High
+205,Vande Bharat Express (11567),High_Speed,430t,130 km/h,Rajdhani Express (11751),Express,600t,120 km/h,Itarsi Junction,High
+206,Vande Bharat Express (12467),High_Speed,430t,130 km/h,BOXN Coal Rake (12959),Freight,4500t,60 km/h,Itarsi Junction,High
+207,Vande Bharat Express (12378),High_Speed,430t,130 km/h,BOXN Coal Rake (12332),Freight,4500t,60 km/h,Kanpur Central,High
+208,Vande Bharat Express (11622),High_Speed,430t,130 km/h,BOXN Coal Rake (11765),Freight,4500t,60 km/h,Vijayawada Line,High
+209,BOXN Coal Rake (12137),Freight,4500t,60 km/h,Vande Bharat Express (12568),High_Speed,430t,130 km/h,Itarsi Junction,Low
+210,Bhopal Shatabdi (11146),Express,550t,110 km/h,Vande Bharat Express (12958),High_Speed,430t,130 km/h,Itarsi Junction,Low
+211,Rajdhani Express (11487),Express,600t,120 km/h,Bhopal Shatabdi (11023),Express,550t,110 km/h,Itarsi Junction,Medium
+212,BOXN Coal Rake (12326),Freight,4500t,60 km/h,Rajdhani Express (12949),Express,600t,120 km/h,Kanpur Central,Low
+213,WAG-12 Heavy Freight (12704),Heavy Freight,6000t,75 km/h,Rajdhani Express (12427),Express,600t,120 km/h,Kanpur Central,Medium
+214,BOXN Coal Rake (11067),Freight,4500t,60 km/h,Rajdhani Express (11997),Express,600t,120 km/h,Kanpur Central,Low
+215,Bhopal Shatabdi (12522),Express,550t,110 km/h,BOXN Coal Rake (12239),Freight,4500t,60 km/h,Vijayawada Line,High
+216,Bhopal Shatabdi (11904),Express,550t,110 km/h,EMU Local (12832),Commuter,300t,80 km/h,Vijayawada Line,High
+217,BOXN Coal Rake (12680),Freight,4500t,60 km/h,Bhopal Shatabdi (11770),Express,550t,110 km/h,Itarsi Junction,High
+218,BOXN Coal Rake (11751),Freight,4500t,60 km/h,Vande Bharat Express (11896),High_Speed,430t,130 km/h,Nagpur Crossing,Medium
+219,EMU Local (12825),Commuter,300t,80 km/h,Rajdhani Express (11373),Express,600t,120 km/h,Bhusawal Block,Low
+220,EMU Local (11872),Commuter,300t,80 km/h,Vande Bharat Express (11113),High_Speed,430t,130 km/h,Nagpur Crossing,High
+221,WAG-12 Heavy Freight (12229),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11002),Freight,4500t,60 km/h,Bhusawal Block,Low
+222,BOXN Coal Rake (11286),Freight,4500t,60 km/h,EMU Local (12276),Commuter,300t,80 km/h,Itarsi Junction,Low
+223,BOXN Coal Rake (12457),Freight,4500t,60 km/h,Rajdhani Express (12491),Express,600t,120 km/h,Kanpur Central,Low
+224,WAG-12 Heavy Freight (11519),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12106),Freight,4500t,60 km/h,Vijayawada Line,High
+225,EMU Local (11237),Commuter,300t,80 km/h,Bhopal Shatabdi (12621),Express,550t,110 km/h,Bhusawal Block,Medium
+226,WAG-12 Heavy Freight (11239),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11397),High_Speed,430t,130 km/h,Nagpur Crossing,High
+227,EMU Local (12584),Commuter,300t,80 km/h,Bhopal Shatabdi (12895),Express,550t,110 km/h,Itarsi Junction,Low
+228,BOXN Coal Rake (12251),Freight,4500t,60 km/h,Bhopal Shatabdi (11679),Express,550t,110 km/h,Nagpur Crossing,Medium
+229,EMU Local (11889),Commuter,300t,80 km/h,BOXN Coal Rake (11080),Freight,4500t,60 km/h,Bhusawal Block,Medium
+230,Bhopal Shatabdi (12752),Express,550t,110 km/h,EMU Local (11476),Commuter,300t,80 km/h,Vijayawada Line,Low
+231,BOXN Coal Rake (12409),Freight,4500t,60 km/h,Vande Bharat Express (12371),High_Speed,430t,130 km/h,Bhusawal Block,Low
+232,EMU Local (11957),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11548),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+233,Vande Bharat Express (11962),High_Speed,430t,130 km/h,Bhopal Shatabdi (11434),Express,550t,110 km/h,Kanpur Central,High
+234,WAG-12 Heavy Freight (12573),Heavy Freight,6000t,75 km/h,EMU Local (11926),Commuter,300t,80 km/h,Kanpur Central,Medium
+235,WAG-12 Heavy Freight (11607),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11560),Express,550t,110 km/h,Vijayawada Line,Medium
+236,Vande Bharat Express (12143),High_Speed,430t,130 km/h,Rajdhani Express (11839),Express,600t,120 km/h,Vijayawada Line,High
+237,WAG-12 Heavy Freight (11821),Heavy Freight,6000t,75 km/h,EMU Local (11434),Commuter,300t,80 km/h,Bhusawal Block,High
+238,EMU Local (11912),Commuter,300t,80 km/h,BOXN Coal Rake (12189),Freight,4500t,60 km/h,Kanpur Central,High
+239,Rajdhani Express (12590),Express,600t,120 km/h,Bhopal Shatabdi (11314),Express,550t,110 km/h,Nagpur Crossing,High
+240,Vande Bharat Express (11159),High_Speed,430t,130 km/h,BOXN Coal Rake (11545),Freight,4500t,60 km/h,Kanpur Central,Medium
+241,Bhopal Shatabdi (12035),Express,550t,110 km/h,Rajdhani Express (12197),Express,600t,120 km/h,Itarsi Junction,Medium
+242,Rajdhani Express (11776),Express,600t,120 km/h,EMU Local (11063),Commuter,300t,80 km/h,Itarsi Junction,High
+243,Vande Bharat Express (12963),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11993),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
+244,WAG-12 Heavy Freight (11165),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12679),Freight,4500t,60 km/h,Itarsi Junction,Medium
+245,BOXN Coal Rake (11359),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11320),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+246,Bhopal Shatabdi (12611),Express,550t,110 km/h,EMU Local (12702),Commuter,300t,80 km/h,Kanpur Central,High
+247,WAG-12 Heavy Freight (12026),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11289),Freight,4500t,60 km/h,Bhusawal Block,Medium
+248,WAG-12 Heavy Freight (11020),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12071),Express,550t,110 km/h,Kanpur Central,High
+249,BOXN Coal Rake (12405),Freight,4500t,60 km/h,Vande Bharat Express (11142),High_Speed,430t,130 km/h,Vijayawada Line,Medium
+250,EMU Local (11421),Commuter,300t,80 km/h,Rajdhani Express (12463),Express,600t,120 km/h,Itarsi Junction,High
+251,Vande Bharat Express (12952),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12649),Heavy Freight,6000t,75 km/h,Kanpur Central,High
+252,Rajdhani Express (12935),Express,600t,120 km/h,Vande Bharat Express (12907),High_Speed,430t,130 km/h,Kanpur Central,Low
+253,Vande Bharat Express (12371),High_Speed,430t,130 km/h,EMU Local (11043),Commuter,300t,80 km/h,Vijayawada Line,Low
+254,EMU Local (11707),Commuter,300t,80 km/h,Bhopal Shatabdi (12003),Express,550t,110 km/h,Vijayawada Line,Low
+255,Rajdhani Express (11112),Express,600t,120 km/h,Vande Bharat Express (12138),High_Speed,430t,130 km/h,Kanpur Central,High
+256,BOXN Coal Rake (12887),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12252),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
+257,Vande Bharat Express (12272),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12266),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
+258,EMU Local (12781),Commuter,300t,80 km/h,Rajdhani Express (11929),Express,600t,120 km/h,Itarsi Junction,High
+259,EMU Local (12491),Commuter,300t,80 km/h,Vande Bharat Express (11677),High_Speed,430t,130 km/h,Itarsi Junction,Low
+260,BOXN Coal Rake (11010),Freight,4500t,60 km/h,Rajdhani Express (11652),Express,600t,120 km/h,Itarsi Junction,Low
+261,Rajdhani Express (11254),Express,600t,120 km/h,Vande Bharat Express (12204),High_Speed,430t,130 km/h,Vijayawada Line,High
+262,Rajdhani Express (12829),Express,600t,120 km/h,Bhopal Shatabdi (12808),Express,550t,110 km/h,Itarsi Junction,Low
+263,Bhopal Shatabdi (11206),Express,550t,110 km/h,Rajdhani Express (12356),Express,600t,120 km/h,Kanpur Central,Low
+264,BOXN Coal Rake (12906),Freight,4500t,60 km/h,EMU Local (11038),Commuter,300t,80 km/h,Bhusawal Block,Medium
+265,Vande Bharat Express (11613),High_Speed,430t,130 km/h,Bhopal Shatabdi (12620),Express,550t,110 km/h,Kanpur Central,Medium
+266,Rajdhani Express (12927),Express,600t,120 km/h,Bhopal Shatabdi (11097),Express,550t,110 km/h,Kanpur Central,Medium
+267,BOXN Coal Rake (12971),Freight,4500t,60 km/h,Bhopal Shatabdi (12105),Express,550t,110 km/h,Nagpur Crossing,High
+268,WAG-12 Heavy Freight (12800),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11829),Express,550t,110 km/h,Nagpur Crossing,Medium
+269,EMU Local (12608),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11033),Heavy Freight,6000t,75 km/h,Kanpur Central,High
+270,Vande Bharat Express (11260),High_Speed,430t,130 km/h,EMU Local (11002),Commuter,300t,80 km/h,Itarsi Junction,Medium
+271,Rajdhani Express (12031),Express,600t,120 km/h,Bhopal Shatabdi (11771),Express,550t,110 km/h,Bhusawal Block,High
+272,Vande Bharat Express (12537),High_Speed,430t,130 km/h,Rajdhani Express (11640),Express,600t,120 km/h,Bhusawal Block,High
+273,Rajdhani Express (12284),Express,600t,120 km/h,Bhopal Shatabdi (12067),Express,550t,110 km/h,Nagpur Crossing,Medium
+274,Bhopal Shatabdi (12002),Express,550t,110 km/h,Vande Bharat Express (11883),High_Speed,430t,130 km/h,Bhusawal Block,High
+275,Vande Bharat Express (12102),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11261),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
+276,EMU Local (12070),Commuter,300t,80 km/h,BOXN Coal Rake (11883),Freight,4500t,60 km/h,Kanpur Central,High
+277,Bhopal Shatabdi (12975),Express,550t,110 km/h,Vande Bharat Express (11401),High_Speed,430t,130 km/h,Nagpur Crossing,Low
+278,WAG-12 Heavy Freight (12058),Heavy Freight,6000t,75 km/h,EMU Local (12724),Commuter,300t,80 km/h,Nagpur Crossing,Low
+279,Bhopal Shatabdi (11679),Express,550t,110 km/h,WAG-12 Heavy Freight (12845),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+280,WAG-12 Heavy Freight (12280),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11183),High_Speed,430t,130 km/h,Nagpur Crossing,Low
+281,EMU Local (11523),Commuter,300t,80 km/h,BOXN Coal Rake (11883),Freight,4500t,60 km/h,Bhusawal Block,Low
+282,Vande Bharat Express (11268),High_Speed,430t,130 km/h,EMU Local (12200),Commuter,300t,80 km/h,Bhusawal Block,Low
+283,EMU Local (11314),Commuter,300t,80 km/h,Vande Bharat Express (12828),High_Speed,430t,130 km/h,Nagpur Crossing,Medium
+284,BOXN Coal Rake (12020),Freight,4500t,60 km/h,EMU Local (12449),Commuter,300t,80 km/h,Bhusawal Block,Medium
+285,BOXN Coal Rake (12783),Freight,4500t,60 km/h,EMU Local (12243),Commuter,300t,80 km/h,Nagpur Crossing,Medium
+286,BOXN Coal Rake (12836),Freight,4500t,60 km/h,EMU Local (12803),Commuter,300t,80 km/h,Vijayawada Line,High
+287,EMU Local (12009),Commuter,300t,80 km/h,BOXN Coal Rake (11547),Freight,4500t,60 km/h,Itarsi Junction,Low
+288,Vande Bharat Express (12659),High_Speed,430t,130 km/h,BOXN Coal Rake (11518),Freight,4500t,60 km/h,Itarsi Junction,Low
+289,Vande Bharat Express (12867),High_Speed,430t,130 km/h,EMU Local (12884),Commuter,300t,80 km/h,Vijayawada Line,Low
+290,Rajdhani Express (11991),Express,600t,120 km/h,BOXN Coal Rake (11355),Freight,4500t,60 km/h,Kanpur Central,Low
+291,Vande Bharat Express (12757),High_Speed,430t,130 km/h,Bhopal Shatabdi (11306),Express,550t,110 km/h,Bhusawal Block,Low
+292,EMU Local (12108),Commuter,300t,80 km/h,Bhopal Shatabdi (12533),Express,550t,110 km/h,Kanpur Central,Low
+293,Rajdhani Express (11350),Express,600t,120 km/h,EMU Local (12226),Commuter,300t,80 km/h,Itarsi Junction,Medium
+294,Rajdhani Express (11919),Express,600t,120 km/h,Vande Bharat Express (11244),High_Speed,430t,130 km/h,Kanpur Central,Medium
+295,EMU Local (12938),Commuter,300t,80 km/h,Vande Bharat Express (11464),High_Speed,430t,130 km/h,Nagpur Crossing,High
+296,BOXN Coal Rake (12561),Freight,4500t,60 km/h,EMU Local (12783),Commuter,300t,80 km/h,Itarsi Junction,Low
+297,EMU Local (12714),Commuter,300t,80 km/h,Bhopal Shatabdi (11464),Express,550t,110 km/h,Bhusawal Block,Medium
+298,EMU Local (11889),Commuter,300t,80 km/h,BOXN Coal Rake (11900),Freight,4500t,60 km/h,Bhusawal Block,Low
+299,WAG-12 Heavy Freight (11538),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11243),Freight,4500t,60 km/h,Nagpur Crossing,Low
+300,EMU Local (12491),Commuter,300t,80 km/h,Vande Bharat Express (12719),High_Speed,430t,130 km/h,Vijayawada Line,High
+301,Vande Bharat Express (11703),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12025),Heavy Freight,6000t,75 km/h,Kanpur Central,Low
+302,Rajdhani Express (12564),Express,600t,120 km/h,BOXN Coal Rake (11838),Freight,4500t,60 km/h,Vijayawada Line,Medium
+303,BOXN Coal Rake (11631),Freight,4500t,60 km/h,Rajdhani Express (11975),Express,600t,120 km/h,Itarsi Junction,Medium
+304,WAG-12 Heavy Freight (12260),Heavy Freight,6000t,75 km/h,EMU Local (11806),Commuter,300t,80 km/h,Bhusawal Block,High
+305,EMU Local (12410),Commuter,300t,80 km/h,Vande Bharat Express (11758),High_Speed,430t,130 km/h,Bhusawal Block,High
+306,Rajdhani Express (12133),Express,600t,120 km/h,BOXN Coal Rake (11581),Freight,4500t,60 km/h,Itarsi Junction,High
+307,BOXN Coal Rake (12071),Freight,4500t,60 km/h,Bhopal Shatabdi (11502),Express,550t,110 km/h,Bhusawal Block,Low
+308,WAG-12 Heavy Freight (12454),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11678),Express,550t,110 km/h,Bhusawal Block,Low
+309,Vande Bharat Express (12574),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12880),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
+310,WAG-12 Heavy Freight (12737),Heavy Freight,6000t,75 km/h,Rajdhani Express (12756),Express,600t,120 km/h,Bhusawal Block,Medium
+311,Bhopal Shatabdi (11619),Express,550t,110 km/h,WAG-12 Heavy Freight (11294),Heavy Freight,6000t,75 km/h,Bhusawal Block,Low
+312,EMU Local (11259),Commuter,300t,80 km/h,BOXN Coal Rake (11416),Freight,4500t,60 km/h,Nagpur Crossing,High
+313,Vande Bharat Express (12297),High_Speed,430t,130 km/h,Rajdhani Express (12681),Express,600t,120 km/h,Nagpur Crossing,Low
+314,BOXN Coal Rake (12083),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11955),Heavy Freight,6000t,75 km/h,Vijayawada Line,Medium
+315,Vande Bharat Express (11604),High_Speed,430t,130 km/h,EMU Local (11348),Commuter,300t,80 km/h,Nagpur Crossing,Low
+316,Vande Bharat Express (11656),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11345),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+317,WAG-12 Heavy Freight (11304),Heavy Freight,6000t,75 km/h,Rajdhani Express (11023),Express,600t,120 km/h,Nagpur Crossing,Low
+318,Rajdhani Express (11979),Express,600t,120 km/h,EMU Local (11920),Commuter,300t,80 km/h,Itarsi Junction,High
+319,WAG-12 Heavy Freight (12538),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12021),Express,550t,110 km/h,Nagpur Crossing,Medium
+320,BOXN Coal Rake (11399),Freight,4500t,60 km/h,Rajdhani Express (11088),Express,600t,120 km/h,Itarsi Junction,High
+321,BOXN Coal Rake (11437),Freight,4500t,60 km/h,EMU Local (11741),Commuter,300t,80 km/h,Nagpur Crossing,Low
+322,Bhopal Shatabdi (12028),Express,550t,110 km/h,BOXN Coal Rake (11579),Freight,4500t,60 km/h,Bhusawal Block,High
+323,EMU Local (12569),Commuter,300t,80 km/h,Rajdhani Express (12457),Express,600t,120 km/h,Kanpur Central,Medium
+324,BOXN Coal Rake (12633),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12103),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
+325,Rajdhani Express (11613),Express,600t,120 km/h,BOXN Coal Rake (11452),Freight,4500t,60 km/h,Itarsi Junction,Low
+326,BOXN Coal Rake (11349),Freight,4500t,60 km/h,EMU Local (12707),Commuter,300t,80 km/h,Bhusawal Block,Low
+327,Bhopal Shatabdi (12842),Express,550t,110 km/h,EMU Local (12403),Commuter,300t,80 km/h,Vijayawada Line,High
+328,Bhopal Shatabdi (11743),Express,550t,110 km/h,EMU Local (12996),Commuter,300t,80 km/h,Itarsi Junction,Low
+329,BOXN Coal Rake (12854),Freight,4500t,60 km/h,Bhopal Shatabdi (12817),Express,550t,110 km/h,Itarsi Junction,High
+330,Vande Bharat Express (12871),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12399),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
+331,WAG-12 Heavy Freight (12134),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11292),Freight,4500t,60 km/h,Nagpur Crossing,Medium
+332,BOXN Coal Rake (12680),Freight,4500t,60 km/h,Rajdhani Express (12005),Express,600t,120 km/h,Nagpur Crossing,High
+333,EMU Local (12764),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12611),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
+334,Bhopal Shatabdi (12219),Express,550t,110 km/h,Vande Bharat Express (12134),High_Speed,430t,130 km/h,Itarsi Junction,Medium
+335,Bhopal Shatabdi (11455),Express,550t,110 km/h,EMU Local (12854),Commuter,300t,80 km/h,Kanpur Central,Medium
+336,Rajdhani Express (12067),Express,600t,120 km/h,Vande Bharat Express (12773),High_Speed,430t,130 km/h,Vijayawada Line,Medium
+337,Vande Bharat Express (12608),High_Speed,430t,130 km/h,BOXN Coal Rake (11082),Freight,4500t,60 km/h,Itarsi Junction,Medium
+338,Vande Bharat Express (11647),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11039),Heavy Freight,6000t,75 km/h,Nagpur Crossing,High
+339,Bhopal Shatabdi (11340),Express,550t,110 km/h,Rajdhani Express (11733),Express,600t,120 km/h,Nagpur Crossing,Medium
+340,Vande Bharat Express (11244),High_Speed,430t,130 km/h,BOXN Coal Rake (12777),Freight,4500t,60 km/h,Nagpur Crossing,High
+341,Vande Bharat Express (12965),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12957),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
+342,BOXN Coal Rake (11394),Freight,4500t,60 km/h,Vande Bharat Express (12483),High_Speed,430t,130 km/h,Kanpur Central,Medium
+343,BOXN Coal Rake (11193),Freight,4500t,60 km/h,Rajdhani Express (11125),Express,600t,120 km/h,Nagpur Crossing,High
+344,Vande Bharat Express (11249),High_Speed,430t,130 km/h,BOXN Coal Rake (12845),Freight,4500t,60 km/h,Itarsi Junction,Low
+345,BOXN Coal Rake (12581),Freight,4500t,60 km/h,Rajdhani Express (12047),Express,600t,120 km/h,Bhusawal Block,Low
+346,WAG-12 Heavy Freight (12414),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12582),Freight,4500t,60 km/h,Itarsi Junction,High
+347,Rajdhani Express (12006),Express,600t,120 km/h,Bhopal Shatabdi (11706),Express,550t,110 km/h,Itarsi Junction,Medium
+348,EMU Local (12970),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11663),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
+349,BOXN Coal Rake (12925),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12590),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
+350,Vande Bharat Express (11700),High_Speed,430t,130 km/h,Rajdhani Express (11835),Express,600t,120 km/h,Vijayawada Line,High
+351,Bhopal Shatabdi (12874),Express,550t,110 km/h,WAG-12 Heavy Freight (11755),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
+352,BOXN Coal Rake (11464),Freight,4500t,60 km/h,Vande Bharat Express (12070),High_Speed,430t,130 km/h,Kanpur Central,Medium
+353,Bhopal Shatabdi (12195),Express,550t,110 km/h,Rajdhani Express (12216),Express,600t,120 km/h,Kanpur Central,High
+354,Bhopal Shatabdi (12668),Express,550t,110 km/h,EMU Local (12761),Commuter,300t,80 km/h,Nagpur Crossing,Low
+355,Rajdhani Express (12390),Express,600t,120 km/h,WAG-12 Heavy Freight (12631),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
+356,Vande Bharat Express (11538),High_Speed,430t,130 km/h,BOXN Coal Rake (12034),Freight,4500t,60 km/h,Bhusawal Block,Low
+357,Rajdhani Express (12417),Express,600t,120 km/h,Bhopal Shatabdi (12960),Express,550t,110 km/h,Nagpur Crossing,Low
+358,Rajdhani Express (11824),Express,600t,120 km/h,EMU Local (11841),Commuter,300t,80 km/h,Vijayawada Line,Low
+359,Bhopal Shatabdi (12495),Express,550t,110 km/h,WAG-12 Heavy Freight (12361),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+360,Rajdhani Express (12463),Express,600t,120 km/h,Bhopal Shatabdi (12093),Express,550t,110 km/h,Vijayawada Line,Low
+361,Rajdhani Express (11652),Express,600t,120 km/h,Bhopal Shatabdi (11036),Express,550t,110 km/h,Vijayawada Line,High
+362,WAG-12 Heavy Freight (11313),Heavy Freight,6000t,75 km/h,Rajdhani Express (12965),Express,600t,120 km/h,Nagpur Crossing,High
+363,Vande Bharat Express (12458),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (11397),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+364,Vande Bharat Express (12807),High_Speed,430t,130 km/h,Rajdhani Express (12510),Express,600t,120 km/h,Bhusawal Block,High
+365,EMU Local (11499),Commuter,300t,80 km/h,Rajdhani Express (12005),Express,600t,120 km/h,Bhusawal Block,Medium
+366,BOXN Coal Rake (12789),Freight,4500t,60 km/h,EMU Local (12609),Commuter,300t,80 km/h,Itarsi Junction,Medium
+367,EMU Local (11530),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12032),Heavy Freight,6000t,75 km/h,Bhusawal Block,Low
+368,BOXN Coal Rake (12371),Freight,4500t,60 km/h,Vande Bharat Express (11343),High_Speed,430t,130 km/h,Bhusawal Block,High
+369,EMU Local (11534),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11002),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
+370,EMU Local (11659),Commuter,300t,80 km/h,BOXN Coal Rake (12484),Freight,4500t,60 km/h,Vijayawada Line,Low
+371,EMU Local (11140),Commuter,300t,80 km/h,Rajdhani Express (11812),Express,600t,120 km/h,Bhusawal Block,Low
+372,EMU Local (12897),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11735),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
+373,WAG-12 Heavy Freight (12297),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11352),High_Speed,430t,130 km/h,Nagpur Crossing,High
+374,Bhopal Shatabdi (11220),Express,550t,110 km/h,BOXN Coal Rake (11647),Freight,4500t,60 km/h,Nagpur Crossing,Medium
+375,WAG-12 Heavy Freight (12749),Heavy Freight,6000t,75 km/h,Rajdhani Express (11868),Express,600t,120 km/h,Nagpur Crossing,Medium
+376,EMU Local (11211),Commuter,300t,80 km/h,Bhopal Shatabdi (11508),Express,550t,110 km/h,Bhusawal Block,High
+377,Bhopal Shatabdi (12543),Express,550t,110 km/h,WAG-12 Heavy Freight (11279),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
+378,Bhopal Shatabdi (12142),Express,550t,110 km/h,Vande Bharat Express (12914),High_Speed,430t,130 km/h,Itarsi Junction,Low
+379,Bhopal Shatabdi (11996),Express,550t,110 km/h,WAG-12 Heavy Freight (12315),Heavy Freight,6000t,75 km/h,Itarsi Junction,High
+380,BOXN Coal Rake (12368),Freight,4500t,60 km/h,Bhopal Shatabdi (12393),Express,550t,110 km/h,Itarsi Junction,Low
+381,WAG-12 Heavy Freight (11028),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11988),Freight,4500t,60 km/h,Bhusawal Block,High
+382,Bhopal Shatabdi (11276),Express,550t,110 km/h,WAG-12 Heavy Freight (11948),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
+383,EMU Local (11399),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11931),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
+384,Vande Bharat Express (11250),High_Speed,430t,130 km/h,WAG-12 Heavy Freight (12052),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
+385,Bhopal Shatabdi (12393),Express,550t,110 km/h,WAG-12 Heavy Freight (12857),Heavy Freight,6000t,75 km/h,Bhusawal Block,High
+386,Rajdhani Express (12191),Express,600t,120 km/h,EMU Local (12023),Commuter,300t,80 km/h,Kanpur Central,Low
+387,Vande Bharat Express (12883),High_Speed,430t,130 km/h,Rajdhani Express (11196),Express,600t,120 km/h,Itarsi Junction,High
+388,Vande Bharat Express (12514),High_Speed,430t,130 km/h,BOXN Coal Rake (11283),Freight,4500t,60 km/h,Vijayawada Line,Low
+389,EMU Local (11122),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12487),Heavy Freight,6000t,75 km/h,Kanpur Central,Low
+390,WAG-12 Heavy Freight (11314),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11952),Freight,4500t,60 km/h,Kanpur Central,Medium
+391,BOXN Coal Rake (11592),Freight,4500t,60 km/h,Vande Bharat Express (11339),High_Speed,430t,130 km/h,Bhusawal Block,Medium
+392,BOXN Coal Rake (12193),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11064),Heavy Freight,6000t,75 km/h,Vijayawada Line,Low
+393,EMU Local (11409),Commuter,300t,80 km/h,Bhopal Shatabdi (12395),Express,550t,110 km/h,Kanpur Central,High
+394,Vande Bharat Express (12856),High_Speed,430t,130 km/h,Rajdhani Express (12640),Express,600t,120 km/h,Kanpur Central,Medium
+395,EMU Local (11436),Commuter,300t,80 km/h,Bhopal Shatabdi (12693),Express,550t,110 km/h,Bhusawal Block,Low
+396,EMU Local (12878),Commuter,300t,80 km/h,Rajdhani Express (12218),Express,600t,120 km/h,Nagpur Crossing,High
+397,EMU Local (12111),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12049),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+398,Rajdhani Express (11971),Express,600t,120 km/h,EMU Local (11913),Commuter,300t,80 km/h,Bhusawal Block,Medium
+399,WAG-12 Heavy Freight (12326),Heavy Freight,6000t,75 km/h,Rajdhani Express (12327),Express,600t,120 km/h,Kanpur Central,Low
+400,EMU Local (12617),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11531),Heavy Freight,6000t,75 km/h,Kanpur Central,Low
+401,EMU Local (11169),Commuter,300t,80 km/h,Vande Bharat Express (12234),High_Speed,430t,130 km/h,Nagpur Crossing,Low
+402,Rajdhani Express (11462),Express,600t,120 km/h,Bhopal Shatabdi (12186),Express,550t,110 km/h,Kanpur Central,Medium
+403,WAG-12 Heavy Freight (12042),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (11317),Express,550t,110 km/h,Itarsi Junction,High
+404,Vande Bharat Express (12542),High_Speed,430t,130 km/h,EMU Local (12620),Commuter,300t,80 km/h,Vijayawada Line,Low
+405,BOXN Coal Rake (11309),Freight,4500t,60 km/h,WAG-12 Heavy Freight (11504),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+406,Bhopal Shatabdi (11058),Express,550t,110 km/h,BOXN Coal Rake (11659),Freight,4500t,60 km/h,Vijayawada Line,Medium
+407,Bhopal Shatabdi (12892),Express,550t,110 km/h,WAG-12 Heavy Freight (12029),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
+408,Vande Bharat Express (12632),High_Speed,430t,130 km/h,EMU Local (12266),Commuter,300t,80 km/h,Nagpur Crossing,High
+409,Rajdhani Express (11863),Express,600t,120 km/h,WAG-12 Heavy Freight (12623),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
+410,WAG-12 Heavy Freight (12401),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12911),Freight,4500t,60 km/h,Kanpur Central,High
+411,Bhopal Shatabdi (11504),Express,550t,110 km/h,Rajdhani Express (11811),Express,600t,120 km/h,Itarsi Junction,High
+412,Vande Bharat Express (12439),High_Speed,430t,130 km/h,BOXN Coal Rake (12398),Freight,4500t,60 km/h,Bhusawal Block,Medium
+413,Bhopal Shatabdi (12778),Express,550t,110 km/h,Vande Bharat Express (12909),High_Speed,430t,130 km/h,Kanpur Central,High
+414,WAG-12 Heavy Freight (12023),Heavy Freight,6000t,75 km/h,Rajdhani Express (11730),Express,600t,120 km/h,Kanpur Central,Low
+415,BOXN Coal Rake (12902),Freight,4500t,60 km/h,Bhopal Shatabdi (12356),Express,550t,110 km/h,Bhusawal Block,Low
+416,Bhopal Shatabdi (11027),Express,550t,110 km/h,BOXN Coal Rake (12246),Freight,4500t,60 km/h,Vijayawada Line,Medium
+417,WAG-12 Heavy Freight (12391),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11215),High_Speed,430t,130 km/h,Kanpur Central,Low
+418,BOXN Coal Rake (11013),Freight,4500t,60 km/h,Bhopal Shatabdi (12458),Express,550t,110 km/h,Itarsi Junction,High
+419,Bhopal Shatabdi (11312),Express,550t,110 km/h,Rajdhani Express (11028),Express,600t,120 km/h,Itarsi Junction,Low
+420,BOXN Coal Rake (12076),Freight,4500t,60 km/h,EMU Local (12728),Commuter,300t,80 km/h,Vijayawada Line,High
+421,EMU Local (11564),Commuter,300t,80 km/h,Bhopal Shatabdi (11382),Express,550t,110 km/h,Vijayawada Line,Medium
+422,Vande Bharat Express (12484),High_Speed,430t,130 km/h,BOXN Coal Rake (12631),Freight,4500t,60 km/h,Itarsi Junction,High
+423,BOXN Coal Rake (12982),Freight,4500t,60 km/h,EMU Local (11319),Commuter,300t,80 km/h,Nagpur Crossing,High
+424,WAG-12 Heavy Freight (11616),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12094),Express,550t,110 km/h,Itarsi Junction,High
+425,EMU Local (11984),Commuter,300t,80 km/h,BOXN Coal Rake (12005),Freight,4500t,60 km/h,Vijayawada Line,Low
+426,Bhopal Shatabdi (12136),Express,550t,110 km/h,Rajdhani Express (12510),Express,600t,120 km/h,Vijayawada Line,High
+427,WAG-12 Heavy Freight (12521),Heavy Freight,6000t,75 km/h,EMU Local (12560),Commuter,300t,80 km/h,Bhusawal Block,Low
+428,BOXN Coal Rake (12951),Freight,4500t,60 km/h,Rajdhani Express (12323),Express,600t,120 km/h,Nagpur Crossing,Medium
+429,WAG-12 Heavy Freight (11282),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12058),Express,550t,110 km/h,Vijayawada Line,High
+430,Bhopal Shatabdi (11857),Express,550t,110 km/h,BOXN Coal Rake (12384),Freight,4500t,60 km/h,Bhusawal Block,High
+431,Rajdhani Express (11287),Express,600t,120 km/h,Vande Bharat Express (12749),High_Speed,430t,130 km/h,Kanpur Central,High
+432,EMU Local (11409),Commuter,300t,80 km/h,BOXN Coal Rake (12933),Freight,4500t,60 km/h,Bhusawal Block,Medium
+433,Vande Bharat Express (11513),High_Speed,430t,130 km/h,BOXN Coal Rake (12294),Freight,4500t,60 km/h,Vijayawada Line,Medium
+434,Vande Bharat Express (11254),High_Speed,430t,130 km/h,EMU Local (12710),Commuter,300t,80 km/h,Kanpur Central,Medium
+435,EMU Local (12924),Commuter,300t,80 km/h,BOXN Coal Rake (11970),Freight,4500t,60 km/h,Vijayawada Line,Medium
+436,Bhopal Shatabdi (12605),Express,550t,110 km/h,BOXN Coal Rake (11901),Freight,4500t,60 km/h,Bhusawal Block,Medium
+437,WAG-12 Heavy Freight (11578),Heavy Freight,6000t,75 km/h,Rajdhani Express (11162),Express,600t,120 km/h,Bhusawal Block,Low
+438,Rajdhani Express (11923),Express,600t,120 km/h,WAG-12 Heavy Freight (12941),Heavy Freight,6000t,75 km/h,Vijayawada Line,High
+439,WAG-12 Heavy Freight (11190),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11250),Freight,4500t,60 km/h,Kanpur Central,High
+440,WAG-12 Heavy Freight (11866),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12876),Express,550t,110 km/h,Kanpur Central,Low
+441,Vande Bharat Express (11353),High_Speed,430t,130 km/h,Rajdhani Express (12956),Express,600t,120 km/h,Nagpur Crossing,Medium
+442,Vande Bharat Express (11749),High_Speed,430t,130 km/h,Bhopal Shatabdi (12846),Express,550t,110 km/h,Bhusawal Block,Low
+443,EMU Local (12349),Commuter,300t,80 km/h,Rajdhani Express (11360),Express,600t,120 km/h,Vijayawada Line,High
+444,WAG-12 Heavy Freight (12090),Heavy Freight,6000t,75 km/h,EMU Local (12533),Commuter,300t,80 km/h,Kanpur Central,Low
+445,EMU Local (12658),Commuter,300t,80 km/h,BOXN Coal Rake (12726),Freight,4500t,60 km/h,Bhusawal Block,High
+446,BOXN Coal Rake (11149),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12567),Heavy Freight,6000t,75 km/h,Bhusawal Block,Medium
+447,EMU Local (11687),Commuter,300t,80 km/h,Rajdhani Express (11605),Express,600t,120 km/h,Kanpur Central,Low
+448,Vande Bharat Express (12659),High_Speed,430t,130 km/h,Rajdhani Express (11301),Express,600t,120 km/h,Bhusawal Block,High
+449,BOXN Coal Rake (11509),Freight,4500t,60 km/h,Rajdhani Express (12820),Express,600t,120 km/h,Bhusawal Block,High
+450,WAG-12 Heavy Freight (11852),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (11783),Freight,4500t,60 km/h,Kanpur Central,Low
+451,BOXN Coal Rake (12725),Freight,4500t,60 km/h,EMU Local (12049),Commuter,300t,80 km/h,Kanpur Central,Medium
+452,Rajdhani Express (11519),Express,600t,120 km/h,EMU Local (11005),Commuter,300t,80 km/h,Kanpur Central,High
+453,BOXN Coal Rake (11667),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12744),Heavy Freight,6000t,75 km/h,Bhusawal Block,High
+454,EMU Local (11018),Commuter,300t,80 km/h,WAG-12 Heavy Freight (12329),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Medium
+455,EMU Local (12318),Commuter,300t,80 km/h,WAG-12 Heavy Freight (11210),Heavy Freight,6000t,75 km/h,Kanpur Central,Medium
+456,EMU Local (11234),Commuter,300t,80 km/h,BOXN Coal Rake (12642),Freight,4500t,60 km/h,Nagpur Crossing,Low
+457,WAG-12 Heavy Freight (12665),Heavy Freight,6000t,75 km/h,Vande Bharat Express (11368),High_Speed,430t,130 km/h,Itarsi Junction,High
+458,Vande Bharat Express (11474),High_Speed,430t,130 km/h,Rajdhani Express (12155),Express,600t,120 km/h,Kanpur Central,High
+459,Bhopal Shatabdi (11662),Express,550t,110 km/h,Vande Bharat Express (11817),High_Speed,430t,130 km/h,Itarsi Junction,Low
+460,EMU Local (12789),Commuter,300t,80 km/h,Vande Bharat Express (11719),High_Speed,430t,130 km/h,Itarsi Junction,High
+461,Bhopal Shatabdi (11387),Express,550t,110 km/h,Rajdhani Express (11273),Express,600t,120 km/h,Vijayawada Line,Low
+462,Bhopal Shatabdi (11608),Express,550t,110 km/h,Rajdhani Express (12180),Express,600t,120 km/h,Nagpur Crossing,Medium
+463,BOXN Coal Rake (12474),Freight,4500t,60 km/h,Vande Bharat Express (11510),High_Speed,430t,130 km/h,Kanpur Central,Medium
+464,Bhopal Shatabdi (11300),Express,550t,110 km/h,WAG-12 Heavy Freight (12837),Heavy Freight,6000t,75 km/h,Nagpur Crossing,Low
+465,WAG-12 Heavy Freight (11927),Heavy Freight,6000t,75 km/h,Vande Bharat Express (12873),High_Speed,430t,130 km/h,Nagpur Crossing,High
+466,EMU Local (11654),Commuter,300t,80 km/h,Vande Bharat Express (12608),High_Speed,430t,130 km/h,Itarsi Junction,Low
+467,WAG-12 Heavy Freight (11504),Heavy Freight,6000t,75 km/h,Rajdhani Express (11314),Express,600t,120 km/h,Bhusawal Block,Low
+468,WAG-12 Heavy Freight (12604),Heavy Freight,6000t,75 km/h,Bhopal Shatabdi (12785),Express,550t,110 km/h,Itarsi Junction,High
+469,Bhopal Shatabdi (12797),Express,550t,110 km/h,Vande Bharat Express (11821),High_Speed,430t,130 km/h,Vijayawada Line,High
+470,BOXN Coal Rake (11351),Freight,4500t,60 km/h,Vande Bharat Express (11750),High_Speed,430t,130 km/h,Vijayawada Line,Low
+471,EMU Local (11899),Commuter,300t,80 km/h,Vande Bharat Express (11151),High_Speed,430t,130 km/h,Kanpur Central,Low
+472,BOXN Coal Rake (12537),Freight,4500t,60 km/h,EMU Local (11451),Commuter,300t,80 km/h,Vijayawada Line,Low
+473,Rajdhani Express (11048),Express,600t,120 km/h,BOXN Coal Rake (11586),Freight,4500t,60 km/h,Kanpur Central,Low
+474,Rajdhani Express (11412),Express,600t,120 km/h,BOXN Coal Rake (11904),Freight,4500t,60 km/h,Itarsi Junction,Medium
+475,Vande Bharat Express (11223),High_Speed,430t,130 km/h,BOXN Coal Rake (11827),Freight,4500t,60 km/h,Vijayawada Line,High
+476,Vande Bharat Express (11344),High_Speed,430t,130 km/h,BOXN Coal Rake (12147),Freight,4500t,60 km/h,Kanpur Central,Medium
+477,EMU Local (11991),Commuter,300t,80 km/h,BOXN Coal Rake (12452),Freight,4500t,60 km/h,Bhusawal Block,Low
+478,Vande Bharat Express (11649),High_Speed,430t,130 km/h,EMU Local (12508),Commuter,300t,80 km/h,Vijayawada Line,Low
+479,Bhopal Shatabdi (12512),Express,550t,110 km/h,EMU Local (11933),Commuter,300t,80 km/h,Bhusawal Block,High
+480,Rajdhani Express (11715),Express,600t,120 km/h,Vande Bharat Express (12522),High_Speed,430t,130 km/h,Kanpur Central,Medium
+481,Bhopal Shatabdi (11665),Express,550t,110 km/h,EMU Local (12528),Commuter,300t,80 km/h,Vijayawada Line,Medium
+482,EMU Local (11196),Commuter,300t,80 km/h,Vande Bharat Express (11226),High_Speed,430t,130 km/h,Bhusawal Block,Low
+483,EMU Local (12872),Commuter,300t,80 km/h,Bhopal Shatabdi (12116),Express,550t,110 km/h,Vijayawada Line,Medium
+484,Vande Bharat Express (12064),High_Speed,430t,130 km/h,EMU Local (12876),Commuter,300t,80 km/h,Nagpur Crossing,Low
+485,Vande Bharat Express (11529),High_Speed,430t,130 km/h,Bhopal Shatabdi (11680),Express,550t,110 km/h,Bhusawal Block,Low
+486,EMU Local (12531),Commuter,300t,80 km/h,Bhopal Shatabdi (11213),Express,550t,110 km/h,Kanpur Central,Low
+487,Rajdhani Express (12285),Express,600t,120 km/h,EMU Local (11291),Commuter,300t,80 km/h,Nagpur Crossing,Medium
+488,BOXN Coal Rake (11414),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12656),Heavy Freight,6000t,75 km/h,Itarsi Junction,Medium
+489,EMU Local (12981),Commuter,300t,80 km/h,Rajdhani Express (12291),Express,600t,120 km/h,Kanpur Central,Medium
+490,WAG-12 Heavy Freight (11579),Heavy Freight,6000t,75 km/h,BOXN Coal Rake (12550),Freight,4500t,60 km/h,Vijayawada Line,High
+491,EMU Local (12937),Commuter,300t,80 km/h,Rajdhani Express (11576),Express,600t,120 km/h,Kanpur Central,Medium
+492,BOXN Coal Rake (11537),Freight,4500t,60 km/h,Bhopal Shatabdi (12348),Express,550t,110 km/h,Nagpur Crossing,Low
+493,Vande Bharat Express (11928),High_Speed,430t,130 km/h,Rajdhani Express (12292),Express,600t,120 km/h,Nagpur Crossing,Low
+494,BOXN Coal Rake (12198),Freight,4500t,60 km/h,EMU Local (12629),Commuter,300t,80 km/h,Itarsi Junction,Medium
+495,EMU Local (11677),Commuter,300t,80 km/h,BOXN Coal Rake (12911),Freight,4500t,60 km/h,Itarsi Junction,High
+496,WAG-12 Heavy Freight (11306),Heavy Freight,6000t,75 km/h,EMU Local (11703),Commuter,300t,80 km/h,Kanpur Central,Low
+497,Bhopal Shatabdi (12216),Express,550t,110 km/h,EMU Local (12472),Commuter,300t,80 km/h,Vijayawada Line,Medium
+498,BOXN Coal Rake (12589),Freight,4500t,60 km/h,WAG-12 Heavy Freight (12304),Heavy Freight,6000t,75 km/h,Nagpur Crossing,High
+499,Rajdhani Express (12015),Express,600t,120 km/h,Vande Bharat Express (12459),High_Speed,430t,130 km/h,Vijayawada Line,High
+500,BOXN Coal Rake (11971),Freight,4500t,60 km/h,EMU Local (12375),Commuter,300t,80 km/h,Nagpur Crossing,Low
